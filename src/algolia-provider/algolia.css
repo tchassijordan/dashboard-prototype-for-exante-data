@@ -1,0 +1,46 @@
+.header {
+  padding: 0.5rem 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.header-wrapper {
+  align-items: center;
+  display: grid;
+  grid-template-columns: 100px 1fr;
+}
+
+.header-nav {
+  font-weight: 500;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 1.5rem;
+  width: 100%;
+}
+
+/* Autocomplete */
+
+.aa-Panel {
+  position: fixed;
+}
+
+.ais-HierarchicalMenu-item--selected.ais-HierarchicalMenu-item--parent
+  > div:first-of-type
+  .ais-HierarchicalMenu-label {
+  font-weight: bold;
+}
+
+.ais-HierarchicalMenu-item--selected:not(.ais-HierarchicalMenu-item--parent)
+  .ais-HierarchicalMenu-label {
+  font-weight: bold;
+}
+
+.ais-Pagination {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
