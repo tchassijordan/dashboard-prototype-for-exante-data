@@ -1,9 +1,6 @@
 "use client";
 
-import { createQuerySuggestionsPlugin } from "@algolia/autocomplete-plugin-query-suggestions";
-import { createLocalStorageRecentSearchesPlugin } from "@algolia/autocomplete-plugin-recent-searches";
-import algoliasearch from "algoliasearch/lite";
-import qs from "qs";
+// React Imports
 import React, {
   useCallback,
   useEffect,
@@ -11,16 +8,30 @@ import React, {
   useRef,
   useState,
 } from "react";
-import { connectSearchBox, InstantSearch } from "react-instantsearch-dom";
 
+// Next Imports
+import Image from "next/image";
+
+// Algolia Imports
+import { createQuerySuggestionsPlugin } from "@algolia/autocomplete-plugin-query-suggestions";
+import { createLocalStorageRecentSearchesPlugin } from "@algolia/autocomplete-plugin-recent-searches";
+import algoliasearch from "algoliasearch/lite";
+import qs from "qs";
+import { connectSearchBox, InstantSearch } from "react-instantsearch-dom";
 import { Autocomplete } from "./Autocomplete";
 
+// MUI Imports
+import Box from "@mui/material/Box";
+import Avatar from "@mui/material/Avatar";
+
+// Style Imports
 import "@algolia/autocomplete-theme-classic/dist/theme.css";
 import "./algolia.css";
 
+// Constants
 export const INSTANT_SEARCH_INDEX_NAME = "exante_data_prototype";
 export const INSTANT_SEARCH_QUERY_SUGGESTIONS =
-  "instant_search_demo_query_suggestions";
+  "exante_data_prototype_query_suggestions";
 export const INSTANT_SEARCH_HIERARCHICAL_ATTRIBUTES = [
   "hierarchicalCategories.lvl0",
   "hierarchicalCategories.lvl1",
@@ -248,9 +259,26 @@ export default function AlgoliaSearchProvider() {
         onSearchStateChange={setSearchState}
         createURL={createURL}
       >
-        <header className="header">
-          <div className="header-wrapper wrapper">
-            <nav className="header-nav"></nav>
+        <Box
+          sx={{
+            py: 4,
+            px: 2,
+            position: "fixed",
+            boxSizing: "border-box",
+            top: 0,
+            width: "100%",
+            display: "flex",
+            alignItems: "center",
+            backgroundColor: "rgb(9, 28, 48)",
+          }}
+        >
+          <Image
+            src="/assets/trounceflow-logo.png"
+            alt="trounceflow logo"
+            width={180}
+            height={24}
+          />
+          <div className="wrapper">
             {/* A virtual search box is required for InstantSearch to understand the `query` search state property */}
             <VirtualSearchBox />
             <Autocomplete
@@ -266,7 +294,8 @@ export default function AlgoliaSearchProvider() {
               insights
             />
           </div>
-        </header>
+          <Avatar />
+        </Box>
       </InstantSearch>
     </div>
   );
