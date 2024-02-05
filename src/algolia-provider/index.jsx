@@ -273,10 +273,10 @@ export default function AlgoliaSearchProvider() {
           }}
         >
           <Image
-            src="/assets/trounceflow-logo.png"
+            src="/assets/exante-blue-white-logo.png"
             alt="trounceflow logo"
             width={180}
-            height={24}
+            height={50}
           />
           <div className="wrapper">
             {/* A virtual search box is required for InstantSearch to understand the `query` search state property */}
