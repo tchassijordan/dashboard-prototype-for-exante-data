@@ -159,9 +159,4 @@ export const CUMULATIVE_FUND_FLOW = [
     "em equity [etf]": "-417.37",
     "em equity [non-etf]": "-918.90",
   },
-  {
-    date: "2024-02-02",
-    "em equity [non-etf]": "-917.03",
-    "em equity [etf]": "",
-  },
 ];

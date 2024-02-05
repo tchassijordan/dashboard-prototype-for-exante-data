@@ -1,12 +1,12 @@
 import { Typography, Box } from "@mui/material";
-import Chart from "@/components/Chart";
+import Chart from "@/app/components/Chart";
 
 export default function Home() {
   return (
     <main>
-      <Box mt={15} height={"100%"}>
-        <Typography variant="body1" mb={3} textAlign={"center"}>
-          YTD Cumulative Fund Flow of EM Equity Funds by ETF/non-ETF
+      <Box mt={2}>
+        <Typography variant="h4" mb={3} textAlign={"center"}>
+          Daily money market fund flows
         </Typography>
         <Chart />
       </Box>

@@ -3,12 +3,8 @@ import { Inter } from "next/font/google";
 import { AppRouterCacheProvider } from "@mui/material-nextjs/v13-appRouter";
 import { ThemeProvider } from "@mui/material/styles";
 import theme from "../theme";
-import dynamic from "next/dynamic";
-import WindowWrapper from "@/components/WindowWrapper";
-
-const AlgoliaProvider = dynamic(() => import("@/algolia-provider"), {
-  ssr: false,
-});
+import Navbar from "./components/layout/navbar";
+import "@/globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -27,9 +23,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <AppRouterCacheProvider options={{ enableCssLayer: true }}>
           <ThemeProvider theme={theme}>
-            <WindowWrapper>
-              <AlgoliaProvider />
-            </WindowWrapper>
+            <Navbar />
             {children}
           </ThemeProvider>
         </AppRouterCacheProvider>
