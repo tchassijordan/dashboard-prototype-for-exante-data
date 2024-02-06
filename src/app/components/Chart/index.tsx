@@ -2,42 +2,50 @@
 
 import {
   ResponsiveContainer,
-  LineChart,
+  BarChart,
   CartesianGrid,
   XAxis,
   YAxis,
   Tooltip,
   Legend,
-  Line,
+  Bar,
 } from "recharts";
+import { format } from "date-fns";
 
-export const Chart = ({
-  data,
-  dataKeys,
-  xAxisKey,
-}: {
+interface ChartProps {
   data: Record<string, number | string>[];
   xAxisKey: string;
   dataKeys: string[];
-}) => {
+}
+
+const formatChartData = (
+  data: Record<string, number | string>[],
+  dateKey: string
+) => {
+  return data.map((value) => ({
+    ...value,
+    [dateKey]: format(new Date(value[dateKey]), "dd MMM yyyy"),
+  }));
+};
+
+export const Chart = ({ data, dataKeys, xAxisKey }: ChartProps) => {
+  const chartBarRadius: [number, number, number, number] = [4, 4, 0, 0];
+
   return (
     <ResponsiveContainer width={"100%"} height={"100%"} minHeight={500}>
-      <LineChart data={data} margin={{ top: 5, right: 20, bottom: 5, left: 0 }}>
+      <BarChart
+        data={formatChartData(data, xAxisKey)}
+        margin={{ top: 5, right: 20, bottom: 5, left: 0 }}
+      >
         <Legend verticalAlign="bottom" />
         <CartesianGrid vertical={false} />
         <XAxis dataKey={xAxisKey} />
         <YAxis tickLine={false} axisLine={false} />
         {dataKeys.map((key) => (
-          <Line
-            key={key}
-            type="monotone"
-            dataKey={key}
-            stroke="#2563eb"
-            dot={false}
-          />
+          <Bar key={key} dataKey={key} fill="#1da1df" radius={chartBarRadius} />
         ))}
-        <Tooltip cursor={{ fillOpacity: 0.25 }} />
-      </LineChart>
+        <Tooltip cursor={{ fillOpacity: 0.1 }} />
+      </BarChart>
     </ResponsiveContainer>
   );
 };

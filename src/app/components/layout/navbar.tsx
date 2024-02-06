@@ -30,6 +30,7 @@ export default function Navbar() {
       </Grid>
       <Grid item xs={12} md={7}>
         <Autocomplete
+          autoComplete
           freeSolo
           id="search-bar"
           options={filters}
