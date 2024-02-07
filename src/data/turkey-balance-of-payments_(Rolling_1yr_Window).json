@@ -1,0 +1,3350 @@
+[
+  {
+    "SERIES": "1992-12-01",
+    "Capital Account": "",
+    "Current Account": -0.974,
+    "Errors and Omissions": -1.19,
+    "Direct Investment": 0.779,
+    "Other Investment": 0.458,
+    "Reserves": -1.484
+  },
+  {
+    "SERIES": "1993-01-01",
+    "Capital Account": "",
+    "Current Account": -1.167,
+    "Errors and Omissions": -1.19,
+    "Direct Investment": 0.754,
+    "Other Investment": 1,
+    "Reserves": -1.75
+  },
+  {
+    "SERIES": "1993-02-01",
+    "Capital Account": "",
+    "Current Account": -1.439,
+    "Errors and Omissions": -1.622,
+    "Direct Investment": 0.764,
+    "Other Investment": 1.893,
+    "Reserves": -2.927
+  },
+  {
+    "SERIES": "1993-03-01",
+    "Capital Account": "",
+    "Current Account": -1.746,
+    "Errors and Omissions": -1.332,
+    "Direct Investment": 0.708,
+    "Other Investment": 2.553,
+    "Reserves": -3.354
+  },
+  {
+    "SERIES": "1993-04-01",
+    "Capital Account": "",
+    "Current Account": -2.472,
+    "Errors and Omissions": -0.6,
+    "Direct Investment": 0.67,
+    "Other Investment": 2.472,
+    "Reserves": -3.144
+  },
+  {
+    "SERIES": "1993-05-01",
+    "Capital Account": "",
+    "Current Account": -2.927,
+    "Errors and Omissions": -0.572,
+    "Direct Investment": 0.677,
+    "Other Investment": 3.363,
+    "Reserves": -3.341
+  },
+  {
+    "SERIES": "1993-06-01",
+    "Capital Account": "",
+    "Current Account": -3.498,
+    "Errors and Omissions": -0.821,
+    "Direct Investment": 0.714,
+    "Other Investment": 3.811,
+    "Reserves": -2.71
+  },
+  {
+    "SERIES": "1993-07-01",
+    "Capital Account": "",
+    "Current Account": -3.77,
+    "Errors and Omissions": -0.6740000000000002,
+    "Direct Investment": 0.723,
+    "Other Investment": 3.109,
+    "Reserves": -2.365
+  },
+  {
+    "SERIES": "1993-08-01",
+    "Capital Account": "",
+    "Current Account": -4.414,
+    "Errors and Omissions": -1.626,
+    "Direct Investment": 0.62,
+    "Other Investment": 4.208,
+    "Reserves": -1.637
+  },
+  {
+    "SERIES": "1993-09-01",
+    "Capital Account": "",
+    "Current Account": -5.031,
+    "Errors and Omissions": -1.593,
+    "Direct Investment": 0.595,
+    "Other Investment": 4.996,
+    "Reserves": -1.545
+  },
+  {
+    "SERIES": "1993-10-01",
+    "Capital Account": "",
+    "Current Account": -5.304,
+    "Errors and Omissions": -1.462,
+    "Direct Investment": 0.611,
+    "Other Investment": 4.647,
+    "Reserves": -1.392
+  },
+  {
+    "SERIES": "1993-11-01",
+    "Capital Account": "",
+    "Current Account": -5.965,
+    "Errors and Omissions": -2.256,
+    "Direct Investment": 0.605,
+    "Other Investment": 5.288,
+    "Reserves": -1.779
+  },
+  {
+    "SERIES": "1993-12-01",
+    "Capital Account": "",
+    "Current Account": -6.433,
+    "Errors and Omissions": -2.162,
+    "Direct Investment": 0.622,
+    "Other Investment": 4.694,
+    "Reserves": -0.308
+  },
+  {
+    "SERIES": "1994-01-01",
+    "Capital Account": "",
+    "Current Account": -6.756,
+    "Errors and Omissions": -2.509,
+    "Direct Investment": 0.61,
+    "Other Investment": 4.188,
+    "Reserves": 0.5969999999999999
+  },
+  {
+    "SERIES": "1994-02-01",
+    "Capital Account": "",
+    "Current Account": -6.653,
+    "Errors and Omissions": -2.235,
+    "Direct Investment": 0.593,
+    "Other Investment": 2.813,
+    "Reserves": 2.503
+  },
+  {
+    "SERIES": "1994-03-01",
+    "Capital Account": "",
+    "Current Account": -6.634,
+    "Errors and Omissions": -3.923,
+    "Direct Investment": 0.579,
+    "Other Investment": 2.361,
+    "Reserves": 3.647
+  },
+  {
+    "SERIES": "1994-04-01",
+    "Capital Account": "",
+    "Current Account": -5.335,
+    "Errors and Omissions": -4.083,
+    "Direct Investment": 0.522,
+    "Other Investment": 1.682,
+    "Reserves": 3.135
+  },
+  {
+    "SERIES": "1994-05-01",
+    "Capital Account": "",
+    "Current Account": -4.262,
+    "Errors and Omissions": -3.283,
+    "Direct Investment": 0.541,
+    "Other Investment": -0.459,
+    "Reserves": 3.332
+  },
+  {
+    "SERIES": "1994-06-01",
+    "Capital Account": "",
+    "Current Account": -2.882,
+    "Errors and Omissions": -1.992,
+    "Direct Investment": 0.498,
+    "Other Investment": -1.901,
+    "Reserves": 2.643
+  },
+  {
+    "SERIES": "1994-07-01",
+    "Capital Account": "",
+    "Current Account": -1.586,
+    "Errors and Omissions": -0.981,
+    "Direct Investment": 0.484,
+    "Other Investment": -2.585,
+    "Reserves": 1.741
+  },
+  {
+    "SERIES": "1994-08-01",
+    "Capital Account": "",
+    "Current Account": -0.46700000000000014,
+    "Errors and Omissions": 0.411,
+    "Direct Investment": 0.516,
+    "Other Investment": -4.022,
+    "Reserves": 0.848
+  },
+  {
+    "SERIES": "1994-09-01",
+    "Capital Account": "",
+    "Current Account": 0.7119999999999999,
+    "Errors and Omissions": 1.084,
+    "Direct Investment": 0.495,
+    "Other Investment": -5.205,
+    "Reserves": 0.21
+  },
+  {
+    "SERIES": "1994-10-01",
+    "Capital Account": "",
+    "Current Account": 1.0539999999999998,
+    "Errors and Omissions": 0.742,
+    "Direct Investment": 0.491,
+    "Other Investment": -5.092,
+    "Reserves": 0.389
+  },
+  {
+    "SERIES": "1994-11-01",
+    "Capital Account": "",
+    "Current Account": 1.644,
+    "Errors and Omissions": 2.072,
+    "Direct Investment": 0.524,
+    "Other Investment": -5.623,
+    "Reserves": 0.241
+  },
+  {
+    "SERIES": "1994-12-01",
+    "Capital Account": "",
+    "Current Account": 2.631,
+    "Errors and Omissions": 1.832,
+    "Direct Investment": 0.559,
+    "Other Investment": -5.582,
+    "Reserves": -0.546
+  },
+  {
+    "SERIES": "1995-01-01",
+    "Capital Account": "",
+    "Current Account": 3.661,
+    "Errors and Omissions": 3.139,
+    "Direct Investment": 0.561,
+    "Other Investment": -4.745,
+    "Reserves": -3.316
+  },
+  {
+    "SERIES": "1995-02-01",
+    "Capital Account": "",
+    "Current Account": 3.889,
+    "Errors and Omissions": 3.748,
+    "Direct Investment": 0.592,
+    "Other Investment": -2.981,
+    "Reserves": -5.752
+  },
+  {
+    "SERIES": "1995-03-01",
+    "Capital Account": "",
+    "Current Account": 4.192,
+    "Errors and Omissions": 4.874,
+    "Direct Investment": 0.634,
+    "Other Investment": -1.413,
+    "Reserves": -7.183
+  },
+  {
+    "SERIES": "1995-04-01",
+    "Capital Account": "",
+    "Current Account": 3.66,
+    "Errors and Omissions": 4.545,
+    "Direct Investment": 0.611,
+    "Other Investment": 0.32,
+    "Reserves": -8.058
+  },
+  {
+    "SERIES": "1995-05-01",
+    "Capital Account": "",
+    "Current Account": 2.818,
+    "Errors and Omissions": 4.468,
+    "Direct Investment": 0.636,
+    "Other Investment": 1.563,
+    "Reserves": -8.033
+  },
+  {
+    "SERIES": "1995-06-01",
+    "Capital Account": "",
+    "Current Account": 2.341,
+    "Errors and Omissions": 3.574,
+    "Direct Investment": 0.638,
+    "Other Investment": 3.197,
+    "Reserves": -8.418
+  },
+  {
+    "SERIES": "1995-07-01",
+    "Capital Account": "",
+    "Current Account": 1.537,
+    "Errors and Omissions": 2.683,
+    "Direct Investment": 0.629,
+    "Other Investment": 4.067,
+    "Reserves": -8.381
+  },
+  {
+    "SERIES": "1995-08-01",
+    "Capital Account": "",
+    "Current Account": 0.859,
+    "Errors and Omissions": 2.473,
+    "Direct Investment": 0.598,
+    "Other Investment": 4.935,
+    "Reserves": -8.895
+  },
+  {
+    "SERIES": "1995-09-01",
+    "Capital Account": "",
+    "Current Account": 0.352,
+    "Errors and Omissions": 2.01,
+    "Direct Investment": 0.665,
+    "Other Investment": 5.684,
+    "Reserves": -9.05
+  },
+  {
+    "SERIES": "1995-10-01",
+    "Capital Account": "",
+    "Current Account": -0.00599999999999988,
+    "Errors and Omissions": 2.715,
+    "Direct Investment": 0.639,
+    "Other Investment": 5.79,
+    "Reserves": -9.622
+  },
+  {
+    "SERIES": "1995-11-01",
+    "Capital Account": "",
+    "Current Account": -0.7569999999999999,
+    "Errors and Omissions": 2.378,
+    "Direct Investment": 0.592,
+    "Other Investment": 4.984,
+    "Reserves": -7.151
+  },
+  {
+    "SERIES": "1995-12-01",
+    "Capital Account": "",
+    "Current Account": -2.339,
+    "Errors and Omissions": 2.432,
+    "Direct Investment": 0.772,
+    "Other Investment": 3.87,
+    "Reserves": -5.005
+  },
+  {
+    "SERIES": "1996-01-01",
+    "Capital Account": "",
+    "Current Account": -2.638,
+    "Errors and Omissions": 1.387,
+    "Direct Investment": 0.76,
+    "Other Investment": 4.185,
+    "Reserves": -4.551
+  },
+  {
+    "SERIES": "1996-02-01",
+    "Capital Account": "",
+    "Current Account": -2.544,
+    "Errors and Omissions": 0.91,
+    "Direct Investment": 0.724,
+    "Other Investment": 3.392,
+    "Reserves": -3.775
+  },
+  {
+    "SERIES": "1996-03-01",
+    "Capital Account": "",
+    "Current Account": -3.196,
+    "Errors and Omissions": 1.567,
+    "Direct Investment": 0.858,
+    "Other Investment": 1.949,
+    "Reserves": -3.096
+  },
+  {
+    "SERIES": "1996-04-01",
+    "Capital Account": "",
+    "Current Account": -3.512,
+    "Errors and Omissions": 2.057,
+    "Direct Investment": 0.897,
+    "Other Investment": 2.009,
+    "Reserves": -3.969
+  },
+  {
+    "SERIES": "1996-05-01",
+    "Capital Account": "",
+    "Current Account": -4.079,
+    "Errors and Omissions": 1.611,
+    "Direct Investment": 0.862,
+    "Other Investment": 2.277,
+    "Reserves": -3.658
+  },
+  {
+    "SERIES": "1996-06-01",
+    "Capital Account": "",
+    "Current Account": -4.183,
+    "Errors and Omissions": 1.652,
+    "Direct Investment": 0.828,
+    "Other Investment": 1.911,
+    "Reserves": -3.271
+  },
+  {
+    "SERIES": "1996-07-01",
+    "Capital Account": "",
+    "Current Account": -4.645,
+    "Errors and Omissions": 1.724,
+    "Direct Investment": 0.853,
+    "Other Investment": 1.646,
+    "Reserves": -1.39
+  },
+  {
+    "SERIES": "1996-08-01",
+    "Capital Account": "",
+    "Current Account": -4.083,
+    "Errors and Omissions": 1.853,
+    "Direct Investment": 0.864,
+    "Other Investment": 0.951,
+    "Reserves": -0.953
+  },
+  {
+    "SERIES": "1996-09-01",
+    "Capital Account": "",
+    "Current Account": -3.738,
+    "Errors and Omissions": 1.977,
+    "Direct Investment": 0.805,
+    "Other Investment": 1.312,
+    "Reserves": -1.667
+  },
+  {
+    "SERIES": "1996-10-01",
+    "Capital Account": "",
+    "Current Account": -3.365,
+    "Errors and Omissions": 1.801,
+    "Direct Investment": 0.778,
+    "Other Investment": 1.367,
+    "Reserves": -1.208
+  },
+  {
+    "SERIES": "1996-11-01",
+    "Capital Account": "",
+    "Current Account": -3.053,
+    "Errors and Omissions": 2.216,
+    "Direct Investment": 0.836,
+    "Other Investment": 2.49,
+    "Reserves": -3.401
+  },
+  {
+    "SERIES": "1996-12-01",
+    "Capital Account": "",
+    "Current Account": -2.437,
+    "Errors and Omissions": 1.499,
+    "Direct Investment": 0.612,
+    "Other Investment": 4.282,
+    "Reserves": -4.545
+  },
+  {
+    "SERIES": "1997-01-01",
+    "Capital Account": "",
+    "Current Account": -3.137,
+    "Errors and Omissions": 2.56,
+    "Direct Investment": 0.654,
+    "Other Investment": 2.828,
+    "Reserves": -3.777
+  },
+  {
+    "SERIES": "1997-02-01",
+    "Capital Account": "",
+    "Current Account": -3.644,
+    "Errors and Omissions": 2.648,
+    "Direct Investment": 0.672,
+    "Other Investment": 2.382,
+    "Reserves": -2.997
+  },
+  {
+    "SERIES": "1997-03-01",
+    "Capital Account": "",
+    "Current Account": -3.256,
+    "Errors and Omissions": 2.244,
+    "Direct Investment": 0.527,
+    "Other Investment": 2.557,
+    "Reserves": -2.756
+  },
+  {
+    "SERIES": "1997-04-01",
+    "Capital Account": "",
+    "Current Account": -3.1,
+    "Errors and Omissions": 1.571,
+    "Direct Investment": 0.535,
+    "Other Investment": 2.254,
+    "Reserves": -0.896
+  },
+  {
+    "SERIES": "1997-05-01",
+    "Capital Account": "",
+    "Current Account": -2.852,
+    "Errors and Omissions": 0.877,
+    "Direct Investment": 0.53,
+    "Other Investment": 3.041,
+    "Reserves": -1.598
+  },
+  {
+    "SERIES": "1997-06-01",
+    "Capital Account": "",
+    "Current Account": -2.858,
+    "Errors and Omissions": 0.25,
+    "Direct Investment": 0.563,
+    "Other Investment": 3.166,
+    "Reserves": -1.235
+  },
+  {
+    "SERIES": "1997-07-01",
+    "Capital Account": "",
+    "Current Account": -2.373,
+    "Errors and Omissions": -0.241,
+    "Direct Investment": 0.541,
+    "Other Investment": 4.216,
+    "Reserves": -2.655
+  },
+  {
+    "SERIES": "1997-08-01",
+    "Capital Account": "",
+    "Current Account": -2.355,
+    "Errors and Omissions": -0.614,
+    "Direct Investment": 0.55,
+    "Other Investment": 4.809,
+    "Reserves": -3.128
+  },
+  {
+    "SERIES": "1997-09-01",
+    "Capital Account": "",
+    "Current Account": -2.38,
+    "Errors and Omissions": -0.35,
+    "Direct Investment": 0.539,
+    "Other Investment": 4.992,
+    "Reserves": -4.086
+  },
+  {
+    "SERIES": "1997-10-01",
+    "Capital Account": "",
+    "Current Account": -2.725,
+    "Errors and Omissions": -1.427,
+    "Direct Investment": 0.506,
+    "Other Investment": 5.694,
+    "Reserves": -4.521
+  },
+  {
+    "SERIES": "1997-11-01",
+    "Capital Account": "",
+    "Current Account": -2.715,
+    "Errors and Omissions": -1.848,
+    "Direct Investment": 0.4729999999999999,
+    "Other Investment": 5.199,
+    "Reserves": -3.052
+  },
+  {
+    "SERIES": "1997-12-01",
+    "Capital Account": "",
+    "Current Account": -2.638,
+    "Errors and Omissions": -0.987,
+    "Direct Investment": 0.554,
+    "Other Investment": 4.712,
+    "Reserves": -3.316
+  },
+  {
+    "SERIES": "1998-01-01",
+    "Capital Account": "",
+    "Current Account": -1.914,
+    "Errors and Omissions": -1.474,
+    "Direct Investment": 0.509,
+    "Other Investment": 5.732,
+    "Reserves": -3.846
+  },
+  {
+    "SERIES": "1998-02-01",
+    "Capital Account": "",
+    "Current Account": -2.357,
+    "Errors and Omissions": -1.664,
+    "Direct Investment": 0.534,
+    "Other Investment": 5.901,
+    "Reserves": -3.876
+  },
+  {
+    "SERIES": "1998-03-01",
+    "Capital Account": "",
+    "Current Account": -2.424,
+    "Errors and Omissions": -0.331,
+    "Direct Investment": 0.51,
+    "Other Investment": 7.076,
+    "Reserves": -6.554
+  },
+  {
+    "SERIES": "1998-04-01",
+    "Capital Account": "",
+    "Current Account": -2.538,
+    "Errors and Omissions": 1.681,
+    "Direct Investment": 0.457,
+    "Other Investment": 7.5,
+    "Reserves": -9.616
+  },
+  {
+    "SERIES": "1998-05-01",
+    "Capital Account": "",
+    "Current Account": -1.9529999999999998,
+    "Errors and Omissions": 1.916,
+    "Direct Investment": 0.455,
+    "Other Investment": 7.287,
+    "Reserves": -10.186
+  },
+  {
+    "SERIES": "1998-06-01",
+    "Capital Account": "",
+    "Current Account": -1.6509999999999998,
+    "Errors and Omissions": 2.729,
+    "Direct Investment": 0.518,
+    "Other Investment": 7.236,
+    "Reserves": -10.76
+  },
+  {
+    "SERIES": "1998-07-01",
+    "Capital Account": "",
+    "Current Account": -2.101,
+    "Errors and Omissions": 3.045,
+    "Direct Investment": 0.539,
+    "Other Investment": 6.216,
+    "Reserves": -8.987
+  },
+  {
+    "SERIES": "1998-08-01",
+    "Capital Account": "",
+    "Current Account": -1.685,
+    "Errors and Omissions": 1.487,
+    "Direct Investment": 0.536,
+    "Other Investment": 5.573,
+    "Reserves": -4.06
+  },
+  {
+    "SERIES": "1998-09-01",
+    "Capital Account": "",
+    "Current Account": -1.085,
+    "Errors and Omissions": 5.573,
+    "Direct Investment": 0.561,
+    "Other Investment": 1.363,
+    "Reserves": -0.521
+  },
+  {
+    "SERIES": "1998-10-01",
+    "Capital Account": "",
+    "Current Account": -0.025,
+    "Errors and Omissions": 1.546,
+    "Direct Investment": 0.63,
+    "Other Investment": 4.497,
+    "Reserves": 0.647
+  },
+  {
+    "SERIES": "1998-11-01",
+    "Capital Account": "",
+    "Current Account": 1.07,
+    "Errors and Omissions": -0.177,
+    "Direct Investment": 0.607,
+    "Other Investment": 4.675,
+    "Reserves": 0.287
+  },
+  {
+    "SERIES": "1998-12-01",
+    "Capital Account": "",
+    "Current Account": 2,
+    "Errors and Omissions": -0.713,
+    "Direct Investment": 0.573,
+    "Other Investment": 5.046,
+    "Reserves": -0.216
+  },
+  {
+    "SERIES": "1999-01-01",
+    "Capital Account": "",
+    "Current Account": 2.536,
+    "Errors and Omissions": -1.403,
+    "Direct Investment": 0.525,
+    "Other Investment": 4.768,
+    "Reserves": 0.227
+  },
+  {
+    "SERIES": "1999-02-01",
+    "Capital Account": "",
+    "Current Account": 3.594,
+    "Errors and Omissions": -0.946,
+    "Direct Investment": 0.541,
+    "Other Investment": 4.313,
+    "Reserves": -0.42
+  },
+  {
+    "SERIES": "1999-03-01",
+    "Capital Account": "",
+    "Current Account": 4.399,
+    "Errors and Omissions": -1.307,
+    "Direct Investment": 0.581,
+    "Other Investment": 2.663,
+    "Reserves": 0.117
+  },
+  {
+    "SERIES": "1999-04-01",
+    "Capital Account": "",
+    "Current Account": 4.138,
+    "Errors and Omissions": -2.652,
+    "Direct Investment": 0.64,
+    "Other Investment": 2.127,
+    "Reserves": 2.394
+  },
+  {
+    "SERIES": "1999-05-01",
+    "Capital Account": "",
+    "Current Account": 4.048,
+    "Errors and Omissions": -1.499,
+    "Direct Investment": 0.719,
+    "Other Investment": 0.357,
+    "Reserves": 3.231
+  },
+  {
+    "SERIES": "1999-06-01",
+    "Capital Account": "",
+    "Current Account": 3.368,
+    "Errors and Omissions": -1.235,
+    "Direct Investment": 0.626,
+    "Other Investment": -0.688,
+    "Reserves": 4.224
+  },
+  {
+    "SERIES": "1999-07-01",
+    "Capital Account": "",
+    "Current Account": 3.745,
+    "Errors and Omissions": -0.68,
+    "Direct Investment": 0.541,
+    "Other Investment": 0.309,
+    "Reserves": 1.831
+  },
+  {
+    "SERIES": "1999-08-01",
+    "Capital Account": "",
+    "Current Account": 3.326,
+    "Errors and Omissions": -0.249,
+    "Direct Investment": 0.501,
+    "Other Investment": 0.523,
+    "Reserves": -1.781
+  },
+  {
+    "SERIES": "1999-09-01",
+    "Capital Account": "",
+    "Current Account": 2.108,
+    "Errors and Omissions": -3.959,
+    "Direct Investment": 0.279,
+    "Other Investment": 4.215,
+    "Reserves": -3.299
+  },
+  {
+    "SERIES": "1999-10-01",
+    "Capital Account": "",
+    "Current Account": 1.397,
+    "Errors and Omissions": 0.458,
+    "Direct Investment": 0.279,
+    "Other Investment": 1.807,
+    "Reserves": -4.633
+  },
+  {
+    "SERIES": "1999-11-01",
+    "Capital Account": "",
+    "Current Account": 0.285,
+    "Errors and Omissions": 0.507,
+    "Direct Investment": 0.16,
+    "Other Investment": 1.646,
+    "Reserves": -4.58
+  },
+  {
+    "SERIES": "1999-12-01",
+    "Capital Account": "",
+    "Current Account": -0.925,
+    "Errors and Omissions": 1.302,
+    "Direct Investment": 0.138,
+    "Other Investment": 1.736,
+    "Reserves": -5.726
+  },
+  {
+    "SERIES": "2000-01-01",
+    "Capital Account": "",
+    "Current Account": -1.936,
+    "Errors and Omissions": 0.104,
+    "Direct Investment": 0.119,
+    "Other Investment": 2.12,
+    "Reserves": -4.73
+  },
+  {
+    "SERIES": "2000-02-01",
+    "Capital Account": "",
+    "Current Account": -3.204,
+    "Errors and Omissions": 0.381,
+    "Direct Investment": 0.025,
+    "Other Investment": 2.97,
+    "Reserves": -4.641
+  },
+  {
+    "SERIES": "2000-03-01",
+    "Capital Account": "",
+    "Current Account": -4.591,
+    "Errors and Omissions": 0.2649999999999999,
+    "Direct Investment": 0.027,
+    "Other Investment": 3.297,
+    "Reserves": -3.379
+  },
+  {
+    "SERIES": "2000-04-01",
+    "Capital Account": "",
+    "Current Account": -4.759,
+    "Errors and Omissions": -1.0210000000000001,
+    "Direct Investment": -0.046,
+    "Other Investment": 3.725,
+    "Reserves": -2.593
+  },
+  {
+    "SERIES": "2000-05-01",
+    "Capital Account": "",
+    "Current Account": -5.724,
+    "Errors and Omissions": -0.675,
+    "Direct Investment": -0.216,
+    "Other Investment": 5.007,
+    "Reserves": -2.811
+  },
+  {
+    "SERIES": "2000-06-01",
+    "Capital Account": "",
+    "Current Account": -6.572,
+    "Errors and Omissions": -1.268,
+    "Direct Investment": 0.035,
+    "Other Investment": 6.69,
+    "Reserves": -4.246
+  },
+  {
+    "SERIES": "2000-07-01",
+    "Capital Account": "",
+    "Current Account": -6.897,
+    "Errors and Omissions": -2.491,
+    "Direct Investment": -0.656,
+    "Other Investment": 5.445,
+    "Reserves": -3.249
+  },
+  {
+    "SERIES": "2000-08-01",
+    "Capital Account": "",
+    "Current Account": -8.024,
+    "Errors and Omissions": -3.007,
+    "Direct Investment": -0.573,
+    "Other Investment": 8.102,
+    "Reserves": -3.714
+  },
+  {
+    "SERIES": "2000-09-01",
+    "Capital Account": "",
+    "Current Account": -8.16,
+    "Errors and Omissions": -3.372,
+    "Direct Investment": -0.2,
+    "Other Investment": 7.397,
+    "Reserves": -3.435
+  },
+  {
+    "SERIES": "2000-10-01",
+    "Capital Account": "",
+    "Current Account": -9.219,
+    "Errors and Omissions": -3.902,
+    "Direct Investment": -0.166,
+    "Other Investment": 7.497,
+    "Reserves": -2.746
+  },
+  {
+    "SERIES": "2000-11-01",
+    "Capital Account": "",
+    "Current Account": -10.215,
+    "Errors and Omissions": -2.687,
+    "Direct Investment": 0.238,
+    "Other Investment": 8.914,
+    "Reserves": 1.424
+  },
+  {
+    "SERIES": "2000-12-01",
+    "Capital Account": "",
+    "Current Account": -9.92,
+    "Errors and Omissions": -2.661,
+    "Direct Investment": 0.112,
+    "Other Investment": 11.768,
+    "Reserves": -0.354
+  },
+  {
+    "SERIES": "2001-01-01",
+    "Capital Account": "",
+    "Current Account": -10.502,
+    "Errors and Omissions": -0.663,
+    "Direct Investment": 0.228,
+    "Other Investment": 12.756,
+    "Reserves": -3.08
+  },
+  {
+    "SERIES": "2001-02-01",
+    "Capital Account": "",
+    "Current Account": -9.5,
+    "Errors and Omissions": -2.262,
+    "Direct Investment": 1.791,
+    "Other Investment": 12.245,
+    "Reserves": 0.589
+  },
+  {
+    "SERIES": "2001-03-01",
+    "Capital Account": "",
+    "Current Account": -8.19,
+    "Errors and Omissions": -2.819,
+    "Direct Investment": 1.706,
+    "Other Investment": 9.896,
+    "Reserves": 3.301
+  },
+  {
+    "SERIES": "2001-04-01",
+    "Capital Account": "",
+    "Current Account": -6.613,
+    "Errors and Omissions": -2.081,
+    "Direct Investment": 1.76,
+    "Other Investment": 8.397,
+    "Reserves": 3.603
+  },
+  {
+    "SERIES": "2001-05-01",
+    "Capital Account": "",
+    "Current Account": -5.137,
+    "Errors and Omissions": -2.288,
+    "Direct Investment": 1.823,
+    "Other Investment": 8.827,
+    "Reserves": 1.849
+  },
+  {
+    "SERIES": "2001-06-01",
+    "Capital Account": "",
+    "Current Account": -3.497,
+    "Errors and Omissions": -3.376,
+    "Direct Investment": 1.638,
+    "Other Investment": 4.579,
+    "Reserves": 6.51
+  },
+  {
+    "SERIES": "2001-07-01",
+    "Capital Account": "",
+    "Current Account": -2.655,
+    "Errors and Omissions": -4.123,
+    "Direct Investment": 2.518,
+    "Other Investment": 6.693,
+    "Reserves": 6.497
+  },
+  {
+    "SERIES": "2001-08-01",
+    "Capital Account": "",
+    "Current Account": -1.056,
+    "Errors and Omissions": -3.017,
+    "Direct Investment": 2.541,
+    "Other Investment": 4.6,
+    "Reserves": 5.723
+  },
+  {
+    "SERIES": "2001-09-01",
+    "Capital Account": "",
+    "Current Account": -0.071,
+    "Errors and Omissions": -4.406,
+    "Direct Investment": 2.56,
+    "Other Investment": 5.299,
+    "Reserves": 5.548
+  },
+  {
+    "SERIES": "2001-10-01",
+    "Capital Account": "",
+    "Current Account": 1.284,
+    "Errors and Omissions": -4.499,
+    "Direct Investment": 3.002,
+    "Other Investment": 3.572,
+    "Reserves": 5.711
+  },
+  {
+    "SERIES": "2001-11-01",
+    "Capital Account": "",
+    "Current Account": 3.114,
+    "Errors and Omissions": -2.901,
+    "Direct Investment": 2.824,
+    "Other Investment": -0.046,
+    "Reserves": 1.748
+  },
+  {
+    "SERIES": "2001-12-01",
+    "Capital Account": "",
+    "Current Account": 3.76,
+    "Errors and Omissions": -2.127,
+    "Direct Investment": 2.855,
+    "Other Investment": -2.703,
+    "Reserves": 2.694
+  },
+  {
+    "SERIES": "2002-01-01",
+    "Capital Account": "",
+    "Current Account": 4.489,
+    "Errors and Omissions": -3.136,
+    "Direct Investment": 2.803,
+    "Other Investment": -3.98,
+    "Reserves": 4.948
+  },
+  {
+    "SERIES": "2002-02-01",
+    "Capital Account": "",
+    "Current Account": 4.225,
+    "Errors and Omissions": -2.296,
+    "Direct Investment": 1.291,
+    "Other Investment": -1.278,
+    "Reserves": 0.186
+  },
+  {
+    "SERIES": "2002-03-01",
+    "Capital Account": "",
+    "Current Account": 3.87,
+    "Errors and Omissions": -2.938,
+    "Direct Investment": 1.387,
+    "Other Investment": 1.503,
+    "Reserves": -2.144
+  },
+  {
+    "SERIES": "2002-04-01",
+    "Capital Account": "",
+    "Current Account": 2.621,
+    "Errors and Omissions": -2.317,
+    "Direct Investment": 1.393,
+    "Other Investment": 3.073,
+    "Reserves": -4.248
+  },
+  {
+    "SERIES": "2002-05-01",
+    "Capital Account": "",
+    "Current Account": 1.96,
+    "Errors and Omissions": -2.732,
+    "Direct Investment": 1.695,
+    "Other Investment": 1.476,
+    "Reserves": -1.308
+  },
+  {
+    "SERIES": "2002-06-01",
+    "Capital Account": "",
+    "Current Account": 1.83,
+    "Errors and Omissions": -2.277,
+    "Direct Investment": 1.64,
+    "Other Investment": 5.258,
+    "Reserves": -4.389
+  },
+  {
+    "SERIES": "2002-07-01",
+    "Capital Account": "",
+    "Current Account": 1.442,
+    "Errors and Omissions": -1.162,
+    "Direct Investment": 1.462,
+    "Other Investment": 4.581,
+    "Reserves": -5.049
+  },
+  {
+    "SERIES": "2002-08-01",
+    "Capital Account": "",
+    "Current Account": 1.105,
+    "Errors and Omissions": -0.697,
+    "Direct Investment": 1.569,
+    "Other Investment": 4.995,
+    "Reserves": -5.661
+  },
+  {
+    "SERIES": "2002-09-01",
+    "Capital Account": "",
+    "Current Account": 0.982,
+    "Errors and Omissions": 0.45,
+    "Direct Investment": 1.341,
+    "Other Investment": 4.525,
+    "Reserves": -5.515
+  },
+  {
+    "SERIES": "2002-10-01",
+    "Capital Account": "",
+    "Current Account": 0.857,
+    "Errors and Omissions": 0.754,
+    "Direct Investment": 1.069,
+    "Other Investment": 4.697,
+    "Reserves": -6.298
+  },
+  {
+    "SERIES": "2002-11-01",
+    "Capital Account": "",
+    "Current Account": 0.482,
+    "Errors and Omissions": -0.424,
+    "Direct Investment": 0.99,
+    "Other Investment": 7.256,
+    "Reserves": -7.633
+  },
+  {
+    "SERIES": "2002-12-01",
+    "Capital Account": "",
+    "Current Account": -0.626,
+    "Errors and Omissions": -0.758,
+    "Direct Investment": 0.939,
+    "Other Investment": 7.149,
+    "Reserves": -6.153
+  },
+  {
+    "SERIES": "2003-01-01",
+    "Capital Account": "",
+    "Current Account": -0.901,
+    "Errors and Omissions": -1.104,
+    "Direct Investment": 1.018,
+    "Other Investment": 8.723,
+    "Reserves": -7.758
+  },
+  {
+    "SERIES": "2003-02-01",
+    "Capital Account": "",
+    "Current Account": -1.967,
+    "Errors and Omissions": -1.621,
+    "Direct Investment": 1.046,
+    "Other Investment": 7.001,
+    "Reserves": -4.678
+  },
+  {
+    "SERIES": "2003-03-01",
+    "Capital Account": "",
+    "Current Account": -3.247,
+    "Errors and Omissions": -0.239,
+    "Direct Investment": 1.059,
+    "Other Investment": 6.782,
+    "Reserves": -3.792
+  },
+  {
+    "SERIES": "2003-04-01",
+    "Capital Account": "",
+    "Current Account": -3.617,
+    "Errors and Omissions": 0.1569999999999999,
+    "Direct Investment": 1.017,
+    "Other Investment": 6.068,
+    "Reserves": -2.16
+  },
+  {
+    "SERIES": "2003-05-01",
+    "Capital Account": "",
+    "Current Account": -4.09,
+    "Errors and Omissions": 1.315,
+    "Direct Investment": 0.81,
+    "Other Investment": 5.68,
+    "Reserves": -3.556
+  },
+  {
+    "SERIES": "2003-06-01",
+    "Capital Account": "",
+    "Current Account": -5.067,
+    "Errors and Omissions": 3.057,
+    "Direct Investment": 0.79,
+    "Other Investment": 4.417,
+    "Reserves": -4.297
+  },
+  {
+    "SERIES": "2003-07-01",
+    "Capital Account": "",
+    "Current Account": -5.468,
+    "Errors and Omissions": 3.217,
+    "Direct Investment": 0.878,
+    "Other Investment": 4.294,
+    "Reserves": -3.753
+  },
+  {
+    "SERIES": "2003-08-01",
+    "Capital Account": "",
+    "Current Account": -5.09,
+    "Errors and Omissions": 2.618,
+    "Direct Investment": 0.91,
+    "Other Investment": 3.305,
+    "Reserves": -3.361
+  },
+  {
+    "SERIES": "2003-09-01",
+    "Capital Account": "",
+    "Current Account": -5.015,
+    "Errors and Omissions": 2.61,
+    "Direct Investment": 1.001,
+    "Other Investment": 5.011,
+    "Reserves": -6.783
+  },
+  {
+    "SERIES": "2003-10-01",
+    "Capital Account": "",
+    "Current Account": -5.452,
+    "Errors and Omissions": 3.432,
+    "Direct Investment": 0.858,
+    "Other Investment": 3.207,
+    "Reserves": -4.875
+  },
+  {
+    "SERIES": "2003-11-01",
+    "Capital Account": "",
+    "Current Account": -5.79,
+    "Errors and Omissions": 3.518,
+    "Direct Investment": 1.096,
+    "Other Investment": 1.678,
+    "Reserves": -2.738
+  },
+  {
+    "SERIES": "2003-12-01",
+    "Capital Account": "",
+    "Current Account": -7.554,
+    "Errors and Omissions": 4.489,
+    "Direct Investment": 1.222,
+    "Other Investment": 3.392,
+    "Reserves": -4.047
+  },
+  {
+    "SERIES": "2004-01-01",
+    "Capital Account": "",
+    "Current Account": -8.229,
+    "Errors and Omissions": 3.694,
+    "Direct Investment": 1.243,
+    "Other Investment": 2.471,
+    "Reserves": -2.23
+  },
+  {
+    "SERIES": "2004-02-01",
+    "Capital Account": "",
+    "Current Account": -9.108,
+    "Errors and Omissions": 3.844,
+    "Direct Investment": 1.581,
+    "Other Investment": 3.577,
+    "Reserves": -3.54
+  },
+  {
+    "SERIES": "2004-03-01",
+    "Capital Account": "",
+    "Current Account": -9.921,
+    "Errors and Omissions": 4.641,
+    "Direct Investment": 1.549,
+    "Other Investment": 2.859,
+    "Reserves": -4.494
+  },
+  {
+    "SERIES": "2004-04-01",
+    "Capital Account": "",
+    "Current Account": -10.646,
+    "Errors and Omissions": 4.826,
+    "Direct Investment": 1.569,
+    "Other Investment": 4.558,
+    "Reserves": -5.816
+  },
+  {
+    "SERIES": "2004-05-01",
+    "Capital Account": "",
+    "Current Account": -11.124,
+    "Errors and Omissions": 3.013,
+    "Direct Investment": 1.677,
+    "Other Investment": 5.361,
+    "Reserves": -4.075
+  },
+  {
+    "SERIES": "2004-06-01",
+    "Capital Account": "",
+    "Current Account": -11.657,
+    "Errors and Omissions": 2.898,
+    "Direct Investment": 1.959,
+    "Other Investment": 5.509,
+    "Reserves": -4.361
+  },
+  {
+    "SERIES": "2004-07-01",
+    "Capital Account": "",
+    "Current Account": -11.89,
+    "Errors and Omissions": 1.423,
+    "Direct Investment": 2.189,
+    "Other Investment": 5.016,
+    "Reserves": -2.571
+  },
+  {
+    "SERIES": "2004-08-01",
+    "Capital Account": "",
+    "Current Account": -12.583,
+    "Errors and Omissions": 1.469,
+    "Direct Investment": 1.993,
+    "Other Investment": 6.283,
+    "Reserves": -2.366
+  },
+  {
+    "SERIES": "2004-09-01",
+    "Capital Account": "",
+    "Current Account": -13.005,
+    "Errors and Omissions": 1.097,
+    "Direct Investment": 2.138,
+    "Other Investment": 4.964,
+    "Reserves": 0.321
+  },
+  {
+    "SERIES": "2004-10-01",
+    "Capital Account": "",
+    "Current Account": -13.035,
+    "Errors and Omissions": 1.04,
+    "Direct Investment": 2.242,
+    "Other Investment": 5.967,
+    "Reserves": -1.613
+  },
+  {
+    "SERIES": "2004-11-01",
+    "Capital Account": "",
+    "Current Account": -14.441,
+    "Errors and Omissions": 2.167,
+    "Direct Investment": 2.027,
+    "Other Investment": 5.947,
+    "Reserves": -2.076
+  },
+  {
+    "SERIES": "2004-12-01",
+    "Capital Account": "",
+    "Current Account": -14.198,
+    "Errors and Omissions": 0.838,
+    "Direct Investment": 2.005,
+    "Other Investment": 4.131,
+    "Reserves": -0.824
+  },
+  {
+    "SERIES": "2005-01-01",
+    "Capital Account": "",
+    "Current Account": -14.698,
+    "Errors and Omissions": 1.9,
+    "Direct Investment": 2.037,
+    "Other Investment": 4.022,
+    "Reserves": -2.722
+  },
+  {
+    "SERIES": "2005-02-01",
+    "Capital Account": "",
+    "Current Account": -14.706,
+    "Errors and Omissions": 3.352,
+    "Direct Investment": 1.982,
+    "Other Investment": 1.083,
+    "Reserves": -2.433
+  },
+  {
+    "SERIES": "2005-03-01",
+    "Capital Account": "",
+    "Current Account": -14.728,
+    "Errors and Omissions": 2.967,
+    "Direct Investment": 2.097,
+    "Other Investment": 4.924,
+    "Reserves": -4.313
+  },
+  {
+    "SERIES": "2005-04-01",
+    "Capital Account": "",
+    "Current Account": -15.4,
+    "Errors and Omissions": 2.036,
+    "Direct Investment": 2.163,
+    "Other Investment": 4.265,
+    "Reserves": -2.145
+  },
+  {
+    "SERIES": "2005-05-01",
+    "Capital Account": "",
+    "Current Account": -16.287,
+    "Errors and Omissions": 3.041,
+    "Direct Investment": 2.165,
+    "Other Investment": 3.756,
+    "Reserves": -2.503
+  },
+  {
+    "SERIES": "2005-06-01",
+    "Capital Account": "",
+    "Current Account": -16.899,
+    "Errors and Omissions": 3.354,
+    "Direct Investment": 1.995,
+    "Other Investment": 7.281,
+    "Reserves": -6.631
+  },
+  {
+    "SERIES": "2005-07-01",
+    "Capital Account": "",
+    "Current Account": -17.158,
+    "Errors and Omissions": 4.213,
+    "Direct Investment": 2.766,
+    "Other Investment": 9.154,
+    "Reserves": -10.956
+  },
+  {
+    "SERIES": "2005-08-01",
+    "Capital Account": "",
+    "Current Account": -18.248,
+    "Errors and Omissions": 5.078,
+    "Direct Investment": 3.226,
+    "Other Investment": 6.07,
+    "Reserves": -7.476
+  },
+  {
+    "SERIES": "2005-09-01",
+    "Capital Account": "",
+    "Current Account": -18.559,
+    "Errors and Omissions": 3.924,
+    "Direct Investment": 3.732,
+    "Other Investment": 6.314,
+    "Reserves": -7.92
+  },
+  {
+    "SERIES": "2005-10-01",
+    "Capital Account": "",
+    "Current Account": -19.272,
+    "Errors and Omissions": 3.807,
+    "Direct Investment": 3.737,
+    "Other Investment": 10.962,
+    "Reserves": -10.332
+  },
+  {
+    "SERIES": "2005-11-01",
+    "Capital Account": "",
+    "Current Account": -19.969,
+    "Errors and Omissions": 4.282,
+    "Direct Investment": 6.767,
+    "Other Investment": 11.189,
+    "Reserves": -15.515
+  },
+  {
+    "SERIES": "2005-12-01",
+    "Capital Account": "",
+    "Current Account": -20.98,
+    "Errors and Omissions": 1.495,
+    "Direct Investment": 8.967,
+    "Other Investment": 14.908,
+    "Reserves": -17.847
+  },
+  {
+    "SERIES": "2006-01-01",
+    "Capital Account": "",
+    "Current Account": -21.971,
+    "Errors and Omissions": 1.536,
+    "Direct Investment": 9.548,
+    "Other Investment": 16.14,
+    "Reserves": -17.705
+  },
+  {
+    "SERIES": "2006-02-01",
+    "Capital Account": "",
+    "Current Account": -22.892,
+    "Errors and Omissions": -0.337,
+    "Direct Investment": 9.536,
+    "Other Investment": 23.81,
+    "Reserves": -22.301
+  },
+  {
+    "SERIES": "2006-03-01",
+    "Capital Account": "",
+    "Current Account": -23.714,
+    "Errors and Omissions": -0.361,
+    "Direct Investment": 9.705,
+    "Other Investment": 22.817,
+    "Reserves": -21.68
+  },
+  {
+    "SERIES": "2006-04-01",
+    "Capital Account": "",
+    "Current Account": -25.123,
+    "Errors and Omissions": 0.287,
+    "Direct Investment": 10.127,
+    "Other Investment": 24.775,
+    "Reserves": -22.838
+  },
+  {
+    "SERIES": "2006-05-01",
+    "Capital Account": "",
+    "Current Account": -27.087,
+    "Errors and Omissions": 0.324,
+    "Direct Investment": 16.689,
+    "Other Investment": 23.644,
+    "Reserves": -22.257
+  },
+  {
+    "SERIES": "2006-06-01",
+    "Capital Account": "",
+    "Current Account": -27.834,
+    "Errors and Omissions": -1.281,
+    "Direct Investment": 17.147,
+    "Other Investment": 21.645,
+    "Reserves": -15.318
+  },
+  {
+    "SERIES": "2006-07-01",
+    "Capital Account": "",
+    "Current Account": -28.66,
+    "Errors and Omissions": -0.074,
+    "Direct Investment": 16.267,
+    "Other Investment": 18.187,
+    "Reserves": -12.052
+  },
+  {
+    "SERIES": "2006-08-01",
+    "Capital Account": "",
+    "Current Account": -29.16,
+    "Errors and Omissions": -2.773,
+    "Direct Investment": 18.965,
+    "Other Investment": 19.046,
+    "Reserves": -14.675
+  },
+  {
+    "SERIES": "2006-09-01",
+    "Capital Account": "",
+    "Current Account": -30.478,
+    "Errors and Omissions": -2.403,
+    "Direct Investment": 18.373,
+    "Other Investment": 21.035,
+    "Reserves": -14.213
+  },
+  {
+    "SERIES": "2006-10-01",
+    "Capital Account": "",
+    "Current Account": -31.901,
+    "Errors and Omissions": -3.534,
+    "Direct Investment": 20.97,
+    "Other Investment": 12.684,
+    "Reserves": -10.173
+  },
+  {
+    "SERIES": "2006-11-01",
+    "Capital Account": "",
+    "Current Account": -32.168,
+    "Errors and Omissions": -3.64,
+    "Direct Investment": 19.836,
+    "Other Investment": 11.338,
+    "Reserves": -5.942
+  },
+  {
+    "SERIES": "2006-12-01",
+    "Capital Account": "",
+    "Current Account": -31.161,
+    "Errors and Omissions": -2.66,
+    "Direct Investment": 19.261,
+    "Other Investment": 13.259,
+    "Reserves": -6.114
+  },
+  {
+    "SERIES": "2007-01-01",
+    "Capital Account": 0.004,
+    "Current Account": -31.84,
+    "Errors and Omissions": -0.67,
+    "Direct Investment": 24.047,
+    "Other Investment": 6.738,
+    "Reserves": -6.749
+  },
+  {
+    "SERIES": "2007-02-01",
+    "Capital Account": 0.004,
+    "Current Account": -31.695,
+    "Errors and Omissions": 0.804,
+    "Direct Investment": 25.343,
+    "Other Investment": -0.691,
+    "Reserves": -4.302
+  },
+  {
+    "SERIES": "2007-03-01",
+    "Capital Account": 0.004,
+    "Current Account": -31.626,
+    "Errors and Omissions": -0.636,
+    "Direct Investment": 26.157,
+    "Other Investment": 3.184,
+    "Reserves": -5.42
+  },
+  {
+    "SERIES": "2007-04-01",
+    "Capital Account": 0.003,
+    "Current Account": -31.089,
+    "Errors and Omissions": 0.644,
+    "Direct Investment": 26.305,
+    "Other Investment": -3.131,
+    "Reserves": -4.158
+  },
+  {
+    "SERIES": "2007-05-01",
+    "Capital Account": 0.003,
+    "Current Account": -30.541,
+    "Errors and Omissions": 1.324,
+    "Direct Investment": 20.275,
+    "Other Investment": -0.564,
+    "Reserves": -5.039
+  },
+  {
+    "SERIES": "2007-06-01",
+    "Capital Account": -0.01,
+    "Current Account": -30.839,
+    "Errors and Omissions": 0.112,
+    "Direct Investment": 21.006,
+    "Other Investment": 4.253,
+    "Reserves": -8.879
+  },
+  {
+    "SERIES": "2007-07-01",
+    "Capital Account": -0.008,
+    "Current Account": -31.875,
+    "Errors and Omissions": -2.561,
+    "Direct Investment": 22.555,
+    "Other Investment": 6.787,
+    "Reserves": -10.1
+  },
+  {
+    "SERIES": "2007-08-01",
+    "Capital Account": -0.008,
+    "Current Account": -31.978,
+    "Errors and Omissions": 0.191,
+    "Direct Investment": 20.395,
+    "Other Investment": 13.489,
+    "Reserves": -11.518
+  },
+  {
+    "SERIES": "2007-09-01",
+    "Capital Account": -0.009,
+    "Current Account": -32.774,
+    "Errors and Omissions": -2.266,
+    "Direct Investment": 21.779,
+    "Other Investment": 13.948,
+    "Reserves": -9.121
+  },
+  {
+    "SERIES": "2007-10-01",
+    "Capital Account": -0.009,
+    "Current Account": -33.911,
+    "Errors and Omissions": -2.178,
+    "Direct Investment": 19.992,
+    "Other Investment": 22.016,
+    "Reserves": -10.052
+  },
+  {
+    "SERIES": "2007-11-01",
+    "Capital Account": -0.009,
+    "Current Account": -34.428,
+    "Errors and Omissions": -0.955,
+    "Direct Investment": 18.507,
+    "Other Investment": 26.979,
+    "Reserves": -9.448
+  },
+  {
+    "SERIES": "2007-12-01",
+    "Capital Account": -0.008,
+    "Current Account": -36.946,
+    "Errors and Omissions": 0.14,
+    "Direct Investment": 19.941,
+    "Other Investment": 24.072,
+    "Reserves": -8.032
+  },
+  {
+    "SERIES": "2008-01-01",
+    "Capital Account": -0.015,
+    "Current Account": -37.866,
+    "Errors and Omissions": -2.583,
+    "Direct Investment": 15.718,
+    "Other Investment": 32.851,
+    "Reserves": -6.056
+  },
+  {
+    "SERIES": "2008-02-01",
+    "Capital Account": -0.017,
+    "Current Account": -38.535,
+    "Errors and Omissions": -2.585,
+    "Direct Investment": 14.791,
+    "Other Investment": 35.427,
+    "Reserves": -4.12
+  },
+  {
+    "SERIES": "2008-03-01",
+    "Capital Account": -0.017,
+    "Current Account": -39.691,
+    "Errors and Omissions": 0.837,
+    "Direct Investment": 15.507,
+    "Other Investment": 30.022,
+    "Reserves": -1.676
+  },
+  {
+    "SERIES": "2008-04-01",
+    "Capital Account": -0.016,
+    "Current Account": -41.496,
+    "Errors and Omissions": 0.693,
+    "Direct Investment": 15.549,
+    "Other Investment": 36.555,
+    "Reserves": -1.661
+  },
+  {
+    "SERIES": "2008-05-01",
+    "Capital Account": -0.017,
+    "Current Account": -42.57,
+    "Errors and Omissions": -3.08,
+    "Direct Investment": 17.403,
+    "Other Investment": 37.39,
+    "Reserves": -1.848
+  },
+  {
+    "SERIES": "2008-06-01",
+    "Capital Account": -0.011,
+    "Current Account": -44.846,
+    "Errors and Omissions": -4.54,
+    "Direct Investment": 18.35,
+    "Other Investment": 36.062,
+    "Reserves": -1.503
+  },
+  {
+    "SERIES": "2008-07-01",
+    "Capital Account": -0.048,
+    "Current Account": -45.85,
+    "Errors and Omissions": -3.504,
+    "Direct Investment": 17.98,
+    "Other Investment": 37.439,
+    "Reserves": -0.827
+  },
+  {
+    "SERIES": "2008-08-01",
+    "Capital Account": -0.06,
+    "Current Account": -47.025,
+    "Errors and Omissions": -4.255,
+    "Direct Investment": 18.242,
+    "Other Investment": 36.429,
+    "Reserves": -1.05
+  },
+  {
+    "SERIES": "2008-09-01",
+    "Capital Account": -0.059,
+    "Current Account": -45.551,
+    "Errors and Omissions": -0.483,
+    "Direct Investment": 17.933,
+    "Other Investment": 35.322,
+    "Reserves": -4.293
+  },
+  {
+    "SERIES": "2008-10-01",
+    "Capital Account": -0.059,
+    "Current Account": -44.62,
+    "Errors and Omissions": 4.375,
+    "Direct Investment": 18.744,
+    "Other Investment": 31.845,
+    "Reserves": -2.913
+  },
+  {
+    "SERIES": "2008-11-01",
+    "Capital Account": -0.059,
+    "Current Account": -41.636,
+    "Errors and Omissions": 4.141,
+    "Direct Investment": 19.258,
+    "Other Investment": 26.461,
+    "Reserves": -3.592
+  },
+  {
+    "SERIES": "2008-12-01",
+    "Capital Account": -0.061,
+    "Current Account": -39.425,
+    "Errors and Omissions": 5.576,
+    "Direct Investment": 17.302,
+    "Other Investment": 20.564,
+    "Reserves": 1.058
+  },
+  {
+    "SERIES": "2009-01-01",
+    "Capital Account": -0.06,
+    "Current Account": -35.72,
+    "Errors and Omissions": 9.461,
+    "Direct Investment": 17.134,
+    "Other Investment": 13.245,
+    "Reserves": 2.037
+  },
+  {
+    "SERIES": "2009-02-01",
+    "Capital Account": -0.058,
+    "Current Account": -32.123,
+    "Errors and Omissions": 11.547,
+    "Direct Investment": 16.937,
+    "Other Investment": 10.948,
+    "Reserves": 1.113
+  },
+  {
+    "SERIES": "2009-03-01",
+    "Capital Account": -0.05,
+    "Current Account": -29.062,
+    "Errors and Omissions": 8.591,
+    "Direct Investment": 15.702,
+    "Other Investment": 9.269,
+    "Reserves": 2.393
+  },
+  {
+    "SERIES": "2009-04-01",
+    "Capital Account": -0.05,
+    "Current Account": -25.433,
+    "Errors and Omissions": 5.454,
+    "Direct Investment": 15.787,
+    "Other Investment": 3.774,
+    "Reserves": 4.3
+  },
+  {
+    "SERIES": "2009-05-01",
+    "Capital Account": -0.049,
+    "Current Account": -22.233,
+    "Errors and Omissions": 6.748,
+    "Direct Investment": 13.739,
+    "Other Investment": 2.765,
+    "Reserves": 2.48
+  },
+  {
+    "SERIES": "2009-06-01",
+    "Capital Account": -0.043,
+    "Current Account": -18.886,
+    "Errors and Omissions": 9.811,
+    "Direct Investment": 11.717,
+    "Other Investment": -1.377,
+    "Reserves": 5.847
+  },
+  {
+    "SERIES": "2009-07-01",
+    "Capital Account": -0.052,
+    "Current Account": -15.367,
+    "Errors and Omissions": 9.075,
+    "Direct Investment": 11.046,
+    "Other Investment": -3.12,
+    "Reserves": 5.093
+  },
+  {
+    "SERIES": "2009-08-01",
+    "Capital Account": -0.042,
+    "Current Account": -12.882,
+    "Errors and Omissions": 10.163,
+    "Direct Investment": 10.695,
+    "Other Investment": -8.941,
+    "Reserves": 4.362
+  },
+  {
+    "SERIES": "2009-09-01",
+    "Capital Account": -0.042,
+    "Current Account": -12.873,
+    "Errors and Omissions": 9.013,
+    "Direct Investment": 9.941,
+    "Other Investment": -8.754,
+    "Reserves": 5.918
+  },
+  {
+    "SERIES": "2009-10-01",
+    "Capital Account": -0.042,
+    "Current Account": -9.909,
+    "Errors and Omissions": 3.678,
+    "Direct Investment": 8.702,
+    "Other Investment": -8.344,
+    "Reserves": 4.39
+  },
+  {
+    "SERIES": "2009-11-01",
+    "Capital Account": -0.042,
+    "Current Account": -11.228,
+    "Errors and Omissions": 1.727,
+    "Direct Investment": 8.075,
+    "Other Investment": -5.634,
+    "Reserves": 4.557
+  },
+  {
+    "SERIES": "2009-12-01",
+    "Capital Account": -0.043,
+    "Current Account": -11.36,
+    "Errors and Omissions": 0.621,
+    "Direct Investment": 7.032,
+    "Other Investment": 2.138,
+    "Reserves": -0.112
+  },
+  {
+    "SERIES": "2010-01-01",
+    "Capital Account": -0.045,
+    "Current Account": -13.942,
+    "Errors and Omissions": -0.658,
+    "Direct Investment": 6.315,
+    "Other Investment": 5.278,
+    "Reserves": -1.228
+  },
+  {
+    "SERIES": "2010-02-01",
+    "Capital Account": -0.045,
+    "Current Account": -15.811,
+    "Errors and Omissions": -3.731,
+    "Direct Investment": 6.229,
+    "Other Investment": 7.996,
+    "Reserves": 1.041
+  },
+  {
+    "SERIES": "2010-03-01",
+    "Capital Account": -0.053,
+    "Current Account": -18.804,
+    "Errors and Omissions": -5.404,
+    "Direct Investment": 5.875,
+    "Other Investment": 13.005,
+    "Reserves": -2.28
+  },
+  {
+    "SERIES": "2010-04-01",
+    "Capital Account": -0.053,
+    "Current Account": -21.547,
+    "Errors and Omissions": -7.266,
+    "Direct Investment": 5.482,
+    "Other Investment": 20.614,
+    "Reserves": -9.273
+  },
+  {
+    "SERIES": "2010-05-01",
+    "Capital Account": -0.049,
+    "Current Account": -22.841,
+    "Errors and Omissions": -4.348,
+    "Direct Investment": 5.18,
+    "Other Investment": 21.667,
+    "Reserves": -9.493
+  },
+  {
+    "SERIES": "2010-06-01",
+    "Capital Account": -0.049,
+    "Current Account": -24.012,
+    "Errors and Omissions": -5.074,
+    "Direct Investment": 5.522,
+    "Other Investment": 24.204,
+    "Reserves": -10.638
+  },
+  {
+    "SERIES": "2010-07-01",
+    "Capital Account": -0.025,
+    "Current Account": -27.06,
+    "Errors and Omissions": -3.845,
+    "Direct Investment": 5.946,
+    "Other Investment": 22.855,
+    "Reserves": -10.17
+  },
+  {
+    "SERIES": "2010-08-01",
+    "Capital Account": -0.045,
+    "Current Account": -29.539,
+    "Errors and Omissions": -5.597,
+    "Direct Investment": 5.549,
+    "Other Investment": 27.595,
+    "Reserves": -10.782
+  },
+  {
+    "SERIES": "2010-09-01",
+    "Capital Account": -0.047,
+    "Current Account": -32.363,
+    "Errors and Omissions": -6.34,
+    "Direct Investment": 5.378,
+    "Other Investment": 30.133,
+    "Reserves": -9.257
+  },
+  {
+    "SERIES": "2010-10-01",
+    "Capital Account": -0.047,
+    "Current Account": -36.098,
+    "Errors and Omissions": -6.566,
+    "Direct Investment": 5.536,
+    "Other Investment": 32.813,
+    "Reserves": -10.156
+  },
+  {
+    "SERIES": "2010-11-01",
+    "Capital Account": -0.047,
+    "Current Account": -40.299,
+    "Errors and Omissions": -4.499,
+    "Direct Investment": 5.91,
+    "Other Investment": 36.11,
+    "Reserves": -12.623
+  },
+  {
+    "SERIES": "2010-12-01",
+    "Capital Account": -0.051,
+    "Current Account": -44.62,
+    "Errors and Omissions": -6.779,
+    "Direct Investment": 7.617,
+    "Other Investment": 40.559,
+    "Reserves": -12.809
+  },
+  {
+    "SERIES": "2011-01-01",
+    "Capital Account": -0.058,
+    "Current Account": -47.58,
+    "Errors and Omissions": -6.687,
+    "Direct Investment": 7.064,
+    "Other Investment": 43.581,
+    "Reserves": -12.928
+  },
+  {
+    "SERIES": "2011-02-01",
+    "Capital Account": -0.057,
+    "Current Account": -51.464,
+    "Errors and Omissions": -4.546,
+    "Direct Investment": 7.462,
+    "Other Investment": 42.464,
+    "Reserves": -14.604
+  },
+  {
+    "SERIES": "2011-03-01",
+    "Capital Account": -0.059,
+    "Current Account": -56.798,
+    "Errors and Omissions": -2.649,
+    "Direct Investment": 9.968,
+    "Other Investment": 42.755,
+    "Reserves": -15.84
+  },
+  {
+    "SERIES": "2011-04-01",
+    "Capital Account": -0.062,
+    "Current Account": -60.156,
+    "Errors and Omissions": -0.578,
+    "Direct Investment": 10.06,
+    "Other Investment": 40.891,
+    "Reserves": -12.853
+  },
+  {
+    "SERIES": "2011-05-01",
+    "Capital Account": -0.067,
+    "Current Account": -65.138,
+    "Errors and Omissions": 0.488,
+    "Direct Investment": 10.703,
+    "Other Investment": 45.631,
+    "Reserves": -14.109
+  },
+  {
+    "SERIES": "2011-06-01",
+    "Capital Account": -0.084,
+    "Current Account": -69.614,
+    "Errors and Omissions": 3.025,
+    "Direct Investment": 10.996,
+    "Other Investment": 46.883,
+    "Reserves": -16.467
+  },
+  {
+    "SERIES": "2011-07-01",
+    "Capital Account": -0.081,
+    "Current Account": -71.49,
+    "Errors and Omissions": 4.781,
+    "Direct Investment": 12.409,
+    "Other Investment": 45.936,
+    "Reserves": -15.219
+  },
+  {
+    "SERIES": "2011-08-01",
+    "Capital Account": -0.044,
+    "Current Account": -72.523,
+    "Errors and Omissions": 7.079,
+    "Direct Investment": 12.706,
+    "Other Investment": 40.754,
+    "Reserves": -7.438
+  },
+  {
+    "SERIES": "2011-09-01",
+    "Capital Account": -0.033,
+    "Current Account": -75.108,
+    "Errors and Omissions": 10.275,
+    "Direct Investment": 13.283,
+    "Other Investment": 42.911,
+    "Reserves": -9.722
+  },
+  {
+    "SERIES": "2011-10-01",
+    "Capital Account": -0.037,
+    "Current Account": -76.141,
+    "Errors and Omissions": 13.248,
+    "Direct Investment": 13,
+    "Other Investment": 37.383,
+    "Reserves": -5.113
+  },
+  {
+    "SERIES": "2011-11-01",
+    "Capital Account": -0.03,
+    "Current Account": -75.446,
+    "Errors and Omissions": 8.717,
+    "Direct Investment": 12.392,
+    "Other Investment": 40.137,
+    "Reserves": -5.103
+  },
+  {
+    "SERIES": "2011-12-01",
+    "Capital Account": -0.025,
+    "Current Account": -74.402,
+    "Errors and Omissions": 12.09,
+    "Direct Investment": 13.812,
+    "Other Investment": 24.508,
+    "Reserves": 1.813
+  },
+  {
+    "SERIES": "2012-01-01",
+    "Capital Account": -0.031,
+    "Current Account": -74.279,
+    "Errors and Omissions": 12.342,
+    "Direct Investment": 14.893,
+    "Other Investment": 20.487,
+    "Reserves": 5.347
+  },
+  {
+    "SERIES": "2012-02-01",
+    "Capital Account": -0.033,
+    "Current Account": -72.578,
+    "Errors and Omissions": 14.207,
+    "Direct Investment": 14.68,
+    "Other Investment": 19.759,
+    "Reserves": 4.192
+  },
+  {
+    "SERIES": "2012-03-01",
+    "Capital Account": -0.031,
+    "Current Account": -69.381,
+    "Errors and Omissions": 15.295,
+    "Direct Investment": 12.909,
+    "Other Investment": 18.079,
+    "Reserves": 5.045
+  },
+  {
+    "SERIES": "2012-04-01",
+    "Capital Account": -0.028,
+    "Current Account": -66.408,
+    "Errors and Omissions": 15.653,
+    "Direct Investment": 12.817,
+    "Other Investment": 18.285,
+    "Reserves": 5.945
+  },
+  {
+    "SERIES": "2012-05-01",
+    "Capital Account": -0.027,
+    "Current Account": -64.011,
+    "Errors and Omissions": 12.099,
+    "Direct Investment": 13.321,
+    "Other Investment": 16.804,
+    "Reserves": 8.066
+  },
+  {
+    "SERIES": "2012-06-01",
+    "Capital Account": -0.014,
+    "Current Account": -60.328,
+    "Errors and Omissions": 10.198,
+    "Direct Investment": 14.39,
+    "Other Investment": 14.974,
+    "Reserves": 5.249
+  },
+  {
+    "SERIES": "2012-07-01",
+    "Capital Account": -0.008,
+    "Current Account": -59.234,
+    "Errors and Omissions": 9.556,
+    "Direct Investment": 12.466,
+    "Other Investment": 14.608,
+    "Reserves": 2.064
+  },
+  {
+    "SERIES": "2012-08-01",
+    "Capital Account": -0.039,
+    "Current Account": -56.722,
+    "Errors and Omissions": 9.068,
+    "Direct Investment": 12.395,
+    "Other Investment": 20.214,
+    "Reserves": -9.26
+  },
+  {
+    "SERIES": "2012-09-01",
+    "Capital Account": -0.054,
+    "Current Account": -53.166,
+    "Errors and Omissions": 7.736,
+    "Direct Investment": 11.811,
+    "Other Investment": 11.82,
+    "Reserves": -9.297
+  },
+  {
+    "SERIES": "2012-10-01",
+    "Capital Account": -0.052,
+    "Current Account": -50.133,
+    "Errors and Omissions": 3.876,
+    "Direct Investment": 11.785,
+    "Other Investment": 16.158,
+    "Reserves": -17.472
+  },
+  {
+    "SERIES": "2012-11-01",
+    "Capital Account": -0.059,
+    "Current Account": -48.945,
+    "Errors and Omissions": 3.906,
+    "Direct Investment": 12.087,
+    "Other Investment": 10.815,
+    "Reserves": -16.118
+  },
+  {
+    "SERIES": "2012-12-01",
+    "Capital Account": -0.058,
+    "Current Account": -47.278,
+    "Errors and Omissions": -0.066,
+    "Direct Investment": 9.638,
+    "Other Investment": 17.549,
+    "Reserves": -20.814
+  },
+  {
+    "SERIES": "2013-01-01",
+    "Capital Account": -0.055,
+    "Current Account": -46.96,
+    "Errors and Omissions": 0.162,
+    "Direct Investment": 9.385,
+    "Other Investment": 23.566,
+    "Reserves": -27.188
+  },
+  {
+    "SERIES": "2013-02-01",
+    "Capital Account": -0.055,
+    "Current Account": -47.448,
+    "Errors and Omissions": -4.726,
+    "Direct Investment": 9.524,
+    "Other Investment": 26.454,
+    "Reserves": -26.948
+  },
+  {
+    "SERIES": "2013-03-01",
+    "Capital Account": -0.057,
+    "Current Account": -45.914,
+    "Errors and Omissions": -5.76,
+    "Direct Investment": 9.441,
+    "Other Investment": 26.36,
+    "Reserves": -27.148
+  },
+  {
+    "SERIES": "2013-04-01",
+    "Capital Account": -0.063,
+    "Current Account": -48.071,
+    "Errors and Omissions": -5.336,
+    "Direct Investment": 9.402,
+    "Other Investment": 26.819,
+    "Reserves": -34.107
+  },
+  {
+    "SERIES": "2013-05-01",
+    "Capital Account": -0.072,
+    "Current Account": -49.024,
+    "Errors and Omissions": -3.793,
+    "Direct Investment": 8.74,
+    "Other Investment": 20.658,
+    "Reserves": -28.662
+  },
+  {
+    "SERIES": "2013-06-01",
+    "Capital Account": -0.089,
+    "Current Account": -48.961,
+    "Errors and Omissions": -7.83,
+    "Direct Investment": 7.355,
+    "Other Investment": 22.914,
+    "Reserves": -20.982
+  },
+  {
+    "SERIES": "2013-07-01",
+    "Capital Account": -0.091,
+    "Current Account": -50.602,
+    "Errors and Omissions": -8.406,
+    "Direct Investment": 9.023,
+    "Other Investment": 29.011,
+    "Reserves": -16.702
+  },
+  {
+    "SERIES": "2013-08-01",
+    "Capital Account": -0.09,
+    "Current Account": -51.173,
+    "Errors and Omissions": -8.017,
+    "Direct Investment": 8.771,
+    "Other Investment": 26.948,
+    "Reserves": -13.801
+  },
+  {
+    "SERIES": "2013-09-01",
+    "Capital Account": -0.098,
+    "Current Account": -51.213,
+    "Errors and Omissions": -8.113,
+    "Direct Investment": 8.945,
+    "Other Investment": 29.279,
+    "Reserves": -13.674
+  },
+  {
+    "SERIES": "2013-10-01",
+    "Capital Account": -0.096,
+    "Current Account": -52.927,
+    "Errors and Omissions": -6.127,
+    "Direct Investment": 9.237,
+    "Other Investment": 28.802,
+    "Reserves": -11.354
+  },
+  {
+    "SERIES": "2013-11-01",
+    "Capital Account": -0.096,
+    "Current Account": -52.177,
+    "Errors and Omissions": -4.281,
+    "Direct Investment": 9.506,
+    "Other Investment": 31.728,
+    "Reserves": -12.869
+  },
+  {
+    "SERIES": "2013-12-01",
+    "Capital Account": -0.096,
+    "Current Account": -55.092,
+    "Errors and Omissions": 0.204,
+    "Direct Investment": 9.927,
+    "Other Investment": 32.362,
+    "Reserves": -9.911
+  },
+  {
+    "SERIES": "2014-01-01",
+    "Capital Account": -0.104,
+    "Current Account": -54.18,
+    "Errors and Omissions": 0.347,
+    "Direct Investment": 10.312,
+    "Other Investment": 22.19,
+    "Reserves": -0.408
+  },
+  {
+    "SERIES": "2014-02-01",
+    "Capital Account": -0.103,
+    "Current Account": -52.193,
+    "Errors and Omissions": 2.544,
+    "Direct Investment": 10.932,
+    "Other Investment": 22.198,
+    "Reserves": -1.15
+  },
+  {
+    "SERIES": "2014-03-01",
+    "Capital Account": -0.1,
+    "Current Account": -50.781,
+    "Errors and Omissions": 4.432,
+    "Direct Investment": 10.975,
+    "Other Investment": 19.594,
+    "Reserves": 1.993
+  },
+  {
+    "SERIES": "2014-04-01",
+    "Capital Account": -0.094,
+    "Current Account": -48.313,
+    "Errors and Omissions": 3.308,
+    "Direct Investment": 11.451,
+    "Other Investment": 18.242,
+    "Reserves": 6.544
+  },
+  {
+    "SERIES": "2014-05-01",
+    "Capital Account": -0.085,
+    "Current Account": -44.829,
+    "Errors and Omissions": 3.054,
+    "Direct Investment": 10.782,
+    "Other Investment": 22.06,
+    "Reserves": 0.082
+  },
+  {
+    "SERIES": "2014-06-01",
+    "Capital Account": -0.066,
+    "Current Account": -44.615,
+    "Errors and Omissions": 5.498,
+    "Direct Investment": 11.101,
+    "Other Investment": 15.904,
+    "Reserves": -4.681
+  },
+  {
+    "SERIES": "2014-07-01",
+    "Capital Account": -0.069,
+    "Current Account": -40.764,
+    "Errors and Omissions": 5.956,
+    "Direct Investment": 9.74,
+    "Other Investment": 8.768,
+    "Reserves": -6.652
+  },
+  {
+    "SERIES": "2014-08-01",
+    "Capital Account": -0.07,
+    "Current Account": -40.366,
+    "Errors and Omissions": 4.382,
+    "Direct Investment": 8.132,
+    "Other Investment": 13.296,
+    "Reserves": -4.543
+  },
+  {
+    "SERIES": "2014-09-01",
+    "Capital Account": -0.067,
+    "Current Account": -39.373,
+    "Errors and Omissions": 3.214,
+    "Direct Investment": 8.38,
+    "Other Investment": 13.107,
+    "Reserves": -3.453
+  },
+  {
+    "SERIES": "2014-10-01",
+    "Capital Account": -0.068,
+    "Current Account": -38.232,
+    "Errors and Omissions": 2.677,
+    "Direct Investment": 8.208,
+    "Other Investment": 13.016,
+    "Reserves": -2.744
+  },
+  {
+    "SERIES": "2014-11-01",
+    "Capital Account": -0.069,
+    "Current Account": -39.84,
+    "Errors and Omissions": 1.962,
+    "Direct Investment": 6.504,
+    "Other Investment": 13.702,
+    "Reserves": -1.448
+  },
+  {
+    "SERIES": "2014-12-01",
+    "Capital Account": -0.07,
+    "Current Account": -38.02,
+    "Errors and Omissions": -1.449,
+    "Direct Investment": 6.287,
+    "Other Investment": 13.085,
+    "Reserves": 0.468
+  },
+  {
+    "SERIES": "2015-01-01",
+    "Capital Account": -0.05,
+    "Current Account": -35.179,
+    "Errors and Omissions": -5.956,
+    "Direct Investment": 6.852,
+    "Other Investment": 23.424,
+    "Reserves": -9.349
+  },
+  {
+    "SERIES": "2015-02-01",
+    "Capital Account": -0.05,
+    "Current Account": -35.419,
+    "Errors and Omissions": -4.415,
+    "Direct Investment": 6.431,
+    "Other Investment": 18.681,
+    "Reserves": -6.634
+  },
+  {
+    "SERIES": "2015-03-01",
+    "Capital Account": -0.05,
+    "Current Account": -36.464,
+    "Errors and Omissions": -7.9,
+    "Direct Investment": 6.298,
+    "Other Investment": 19.077,
+    "Reserves": -0.779
+  },
+  {
+    "SERIES": "2015-04-01",
+    "Capital Account": -0.05,
+    "Current Account": -35.587,
+    "Errors and Omissions": -3.545,
+    "Direct Investment": 6.327,
+    "Other Investment": 16.133,
+    "Reserves": 0.036
+  },
+  {
+    "SERIES": "2015-05-01",
+    "Capital Account": -0.05,
+    "Current Account": -36.417,
+    "Errors and Omissions": -0.851,
+    "Direct Investment": 7.224,
+    "Other Investment": 12.746,
+    "Reserves": 4.004
+  },
+  {
+    "SERIES": "2015-06-01",
+    "Capital Account": -0.047,
+    "Current Account": -35.434,
+    "Errors and Omissions": -0.694,
+    "Direct Investment": 6.991,
+    "Other Investment": 17.298,
+    "Reserves": 6.274
+  },
+  {
+    "SERIES": "2015-07-01",
+    "Capital Account": -0.063,
+    "Current Account": -36.405,
+    "Errors and Omissions": -0.424,
+    "Direct Investment": 8.665,
+    "Other Investment": 24.043,
+    "Reserves": 4.466
+  },
+  {
+    "SERIES": "2015-08-01",
+    "Capital Account": -0.02,
+    "Current Account": -34.078,
+    "Errors and Omissions": 1.191,
+    "Direct Investment": 11.542,
+    "Other Investment": 14.427,
+    "Reserves": 6.75
+  },
+  {
+    "SERIES": "2015-09-01",
+    "Capital Account": -0.009,
+    "Current Account": -32.107,
+    "Errors and Omissions": 4.292,
+    "Direct Investment": 11.192,
+    "Other Investment": 12.996,
+    "Reserves": 7.148
+  },
+  {
+    "SERIES": "2015-10-01",
+    "Capital Account": -0.008,
+    "Current Account": -30.504,
+    "Errors and Omissions": 5.348,
+    "Direct Investment": 12.439,
+    "Other Investment": 9.521,
+    "Reserves": 9.805
+  },
+  {
+    "SERIES": "2015-11-01",
+    "Capital Account": -0.007,
+    "Current Account": -27.358,
+    "Errors and Omissions": 7.983,
+    "Direct Investment": 13.678,
+    "Other Investment": 6.882,
+    "Reserves": 10.82
+  },
+  {
+    "SERIES": "2015-12-01",
+    "Capital Account": -0.021,
+    "Current Account": -26.625,
+    "Errors and Omissions": 8.52,
+    "Direct Investment": 14.167,
+    "Other Investment": 5.995,
+    "Reserves": 11.831
+  },
+  {
+    "SERIES": "2016-01-01",
+    "Capital Account": -0.004,
+    "Current Account": -26.925,
+    "Errors and Omissions": 9.268,
+    "Direct Investment": 13.387,
+    "Other Investment": 4.931,
+    "Reserves": 15.885
+  },
+  {
+    "SERIES": "2016-02-01",
+    "Capital Account": -0.004,
+    "Current Account": -25.663,
+    "Errors and Omissions": 7.164,
+    "Direct Investment": 12.77,
+    "Other Investment": 6.994,
+    "Reserves": 14.14
+  },
+  {
+    "SERIES": "2016-03-01",
+    "Capital Account": -0.005,
+    "Current Account": -24.685,
+    "Errors and Omissions": 10.054,
+    "Direct Investment": 12.95,
+    "Other Investment": 5.694,
+    "Reserves": 6.091
+  },
+  {
+    "SERIES": "2016-04-01",
+    "Capital Account": -0.005,
+    "Current Account": -23.811,
+    "Errors and Omissions": 6.675,
+    "Direct Investment": 12.683,
+    "Other Investment": 4.206,
+    "Reserves": 7.581
+  },
+  {
+    "SERIES": "2016-05-01",
+    "Capital Account": -0.005,
+    "Current Account": -23.014,
+    "Errors and Omissions": 3.921,
+    "Direct Investment": 12.318,
+    "Other Investment": 7.575,
+    "Reserves": 3.285
+  },
+  {
+    "SERIES": "2016-06-01",
+    "Capital Account": -0.005,
+    "Current Account": -25.016,
+    "Errors and Omissions": 3.52,
+    "Direct Investment": 12.539,
+    "Other Investment": 12.29,
+    "Reserves": -1.179
+  },
+  {
+    "SERIES": "2016-07-01",
+    "Capital Account": 0.037,
+    "Current Account": -24.38,
+    "Errors and Omissions": 2.126,
+    "Direct Investment": 11.085,
+    "Other Investment": 7.432,
+    "Reserves": 2.529
+  },
+  {
+    "SERIES": "2016-08-01",
+    "Capital Account": 0.007,
+    "Current Account": -25.989,
+    "Errors and Omissions": 2.086,
+    "Direct Investment": 10.778,
+    "Other Investment": 11.209,
+    "Reserves": -1.559
+  },
+  {
+    "SERIES": "2016-09-01",
+    "Capital Account": 0.007,
+    "Current Account": -27.322,
+    "Errors and Omissions": -0.021,
+    "Direct Investment": 11.077,
+    "Other Investment": 9.3,
+    "Reserves": 2.412
+  },
+  {
+    "SERIES": "2016-10-01",
+    "Capital Account": 0.007,
+    "Current Account": -27.79,
+    "Errors and Omissions": 3.149,
+    "Direct Investment": 10.118,
+    "Other Investment": 8.593,
+    "Reserves": -1.708
+  },
+  {
+    "SERIES": "2016-11-01",
+    "Capital Account": 0.007,
+    "Current Account": -27.528,
+    "Errors and Omissions": 4.652,
+    "Direct Investment": 10.634,
+    "Other Investment": 5.842,
+    "Reserves": -1.132
+  },
+  {
+    "SERIES": "2016-12-01",
+    "Capital Account": 0.022,
+    "Current Account": -26.668,
+    "Errors and Omissions": 9.922,
+    "Direct Investment": 10.697,
+    "Other Investment": -1.572,
+    "Reserves": -0.813
+  },
+  {
+    "SERIES": "2017-01-01",
+    "Capital Account": -0.008,
+    "Current Account": -27.144,
+    "Errors and Omissions": 8.665,
+    "Direct Investment": 10.292,
+    "Other Investment": -4.419,
+    "Reserves": 1.205
+  },
+  {
+    "SERIES": "2017-02-01",
+    "Capital Account": -0.008,
+    "Current Account": -27.435,
+    "Errors and Omissions": 6.875,
+    "Direct Investment": 10.482,
+    "Other Investment": -2.494,
+    "Reserves": 1.275
+  },
+  {
+    "SERIES": "2017-03-01",
+    "Capital Account": -0.005,
+    "Current Account": -26.973,
+    "Errors and Omissions": 4.942,
+    "Direct Investment": 10.496,
+    "Other Investment": -4.103,
+    "Reserves": 5.29
+  },
+  {
+    "SERIES": "2017-04-01",
+    "Capital Account": 0.003,
+    "Current Account": -27.611,
+    "Errors and Omissions": 1.673,
+    "Direct Investment": 10.528,
+    "Other Investment": -3.866,
+    "Reserves": 9.526
+  },
+  {
+    "SERIES": "2017-05-01",
+    "Capital Account": 0.004,
+    "Current Account": -29.269,
+    "Errors and Omissions": 3.304,
+    "Direct Investment": 11.141,
+    "Other Investment": -8.808,
+    "Reserves": 9.336
+  },
+  {
+    "SERIES": "2017-06-01",
+    "Capital Account": 0.006,
+    "Current Account": -28.165,
+    "Errors and Omissions": 5.28,
+    "Direct Investment": 9.704,
+    "Other Investment": -14.071,
+    "Reserves": 10.049
+  },
+  {
+    "SERIES": "2017-07-01",
+    "Capital Account": 0.008,
+    "Current Account": -30.24,
+    "Errors and Omissions": 4.762,
+    "Direct Investment": 9.702,
+    "Other Investment": -11.532,
+    "Reserves": 10.759
+  },
+  {
+    "SERIES": "2017-08-01",
+    "Capital Account": 0.016,
+    "Current Account": -29.506,
+    "Errors and Omissions": 2.19,
+    "Direct Investment": 9.165,
+    "Other Investment": -10.871,
+    "Reserves": 11.047
+  },
+  {
+    "SERIES": "2017-09-01",
+    "Capital Account": 0.016,
+    "Current Account": -32.587,
+    "Errors and Omissions": -0.177,
+    "Direct Investment": 9.182,
+    "Other Investment": -4.66,
+    "Reserves": 5.3
+  },
+  {
+    "SERIES": "2017-10-01",
+    "Capital Account": 0.015,
+    "Current Account": -34.947,
+    "Errors and Omissions": -1.483,
+    "Direct Investment": 10.019,
+    "Other Investment": 1.223,
+    "Reserves": 3.24
+  },
+  {
+    "SERIES": "2017-11-01",
+    "Capital Account": 0.014,
+    "Current Account": -36.968,
+    "Errors and Omissions": -6.197,
+    "Direct Investment": 9.642,
+    "Other Investment": 3.664,
+    "Reserves": 6.537
+  },
+  {
+    "SERIES": "2017-12-01",
+    "Capital Account": 0.015,
+    "Current Account": -39.955,
+    "Errors and Omissions": -9.725,
+    "Direct Investment": 8.487,
+    "Other Investment": 8.531,
+    "Reserves": 8.207
+  },
+  {
+    "SERIES": "2018-01-01",
+    "Capital Account": 0.065,
+    "Current Account": -44.417,
+    "Errors and Omissions": -5.441,
+    "Direct Investment": 8.401,
+    "Other Investment": 11.563,
+    "Reserves": 1.771
+  },
+  {
+    "SERIES": "2018-02-01",
+    "Capital Account": 0.069,
+    "Current Account": -46.767,
+    "Errors and Omissions": -2.227,
+    "Direct Investment": 7.582,
+    "Other Investment": 11.861,
+    "Reserves": 2.601
+  },
+  {
+    "SERIES": "2018-03-01",
+    "Capital Account": 0.063,
+    "Current Account": -48.44,
+    "Errors and Omissions": 0.522,
+    "Direct Investment": 7.611,
+    "Other Investment": 12.65,
+    "Reserves": 4.92
+  },
+  {
+    "SERIES": "2018-04-01",
+    "Capital Account": 0.051,
+    "Current Account": -50.462,
+    "Errors and Omissions": 6.318,
+    "Direct Investment": 7.704,
+    "Other Investment": 19.494,
+    "Reserves": -1.66
+  },
+  {
+    "SERIES": "2018-05-01",
+    "Capital Account": 0.071,
+    "Current Account": -51.678,
+    "Errors and Omissions": 8.243,
+    "Direct Investment": 6.674,
+    "Other Investment": 21.247,
+    "Reserves": 3.61
+  },
+  {
+    "SERIES": "2018-06-01",
+    "Capital Account": 0.065,
+    "Current Account": -51.208,
+    "Errors and Omissions": 7.243,
+    "Direct Investment": 8.259,
+    "Other Investment": 15.403,
+    "Reserves": 13.566
+  },
+  {
+    "SERIES": "2018-07-01",
+    "Capital Account": 0.062,
+    "Current Account": -48.894,
+    "Errors and Omissions": 11.506,
+    "Direct Investment": 7.804,
+    "Other Investment": 14.473,
+    "Reserves": 8.743
+  },
+  {
+    "SERIES": "2018-08-01",
+    "Capital Account": 0.079,
+    "Current Account": -46.3,
+    "Errors and Omissions": 16.841,
+    "Direct Investment": 7.69,
+    "Other Investment": -1.625,
+    "Reserves": 20.219
+  },
+  {
+    "SERIES": "2018-09-01",
+    "Capital Account": 0.078,
+    "Current Account": -39.491,
+    "Errors and Omissions": 18.943,
+    "Direct Investment": 7.864,
+    "Other Investment": -11.077,
+    "Reserves": 24.624
+  },
+  {
+    "SERIES": "2018-10-01",
+    "Capital Account": 0.082,
+    "Current Account": -32.713,
+    "Errors and Omissions": 17.259,
+    "Direct Investment": 7.517,
+    "Other Investment": -19.044,
+    "Reserves": 27.878
+  },
+  {
+    "SERIES": "2018-11-01",
+    "Capital Account": 0.082,
+    "Current Account": -26.848,
+    "Errors and Omissions": 18.655,
+    "Direct Investment": 8.388,
+    "Other Investment": -21.508,
+    "Reserves": 19.873
+  },
+  {
+    "SERIES": "2018-12-01",
+    "Capital Account": 0.08,
+    "Current Account": -20.151,
+    "Errors and Omissions": 21.319,
+    "Direct Investment": 8.845,
+    "Other Investment": -19.554,
+    "Reserves": 10.377
+  },
+  {
+    "SERIES": "2019-01-01",
+    "Capital Account": 0.073,
+    "Current Account": -13.341,
+    "Errors and Omissions": 17.976,
+    "Direct Investment": 9.342,
+    "Other Investment": -24.74,
+    "Reserves": 11.49
+  },
+  {
+    "SERIES": "2019-02-01",
+    "Capital Account": 0.068,
+    "Current Account": -8.988,
+    "Errors and Omissions": 16.477,
+    "Direct Investment": 10.111,
+    "Other Investment": -27.016,
+    "Reserves": 8.319
+  },
+  {
+    "SERIES": "2019-03-01",
+    "Capital Account": 0.07,
+    "Current Account": -4.587,
+    "Errors and Omissions": 14.172,
+    "Direct Investment": 10.165,
+    "Other Investment": -29.336,
+    "Reserves": 6.585
+  },
+  {
+    "SERIES": "2019-04-01",
+    "Capital Account": 0.073,
+    "Current Account": 0.166,
+    "Errors and Omissions": 15.474,
+    "Direct Investment": 9.849,
+    "Other Investment": -37.003,
+    "Reserves": 12.151
+  },
+  {
+    "SERIES": "2019-05-01",
+    "Capital Account": 0.046,
+    "Current Account": 7.119,
+    "Errors and Omissions": 12.311,
+    "Direct Investment": 9.847,
+    "Other Investment": -35.406,
+    "Reserves": 6.32
+  },
+  {
+    "SERIES": "2019-06-01",
+    "Capital Account": 0.049,
+    "Current Account": 10.354,
+    "Errors and Omissions": 7.357,
+    "Direct Investment": 9.453,
+    "Other Investment": -27.211,
+    "Reserves": 1.808
+  },
+  {
+    "SERIES": "2019-07-01",
+    "Capital Account": 0.057,
+    "Current Account": 14.529,
+    "Errors and Omissions": 3.542,
+    "Direct Investment": 9.357,
+    "Other Investment": -28.012,
+    "Reserves": 1.076
+  },
+  {
+    "SERIES": "2019-08-01",
+    "Capital Account": 0.044,
+    "Current Account": 15.524,
+    "Errors and Omissions": -2.91,
+    "Direct Investment": 9.201,
+    "Other Investment": -14.07,
+    "Reserves": -7.253
+  },
+  {
+    "SERIES": "2019-09-01",
+    "Capital Account": 0.039,
+    "Current Account": 15.818,
+    "Errors and Omissions": -1.728,
+    "Direct Investment": 8.424,
+    "Other Investment": -11.278,
+    "Reserves": -10.758
+  },
+  {
+    "SERIES": "2019-10-01",
+    "Capital Account": 0.035,
+    "Current Account": 15.064,
+    "Errors and Omissions": -2.298,
+    "Direct Investment": 7.623,
+    "Other Investment": -4.594,
+    "Reserves": -10.9
+  },
+  {
+    "SERIES": "2019-11-01",
+    "Capital Account": 0.035,
+    "Current Account": 12.858,
+    "Errors and Omissions": -4.095,
+    "Direct Investment": 6.762,
+    "Other Investment": -4.026,
+    "Reserves": -7.723
+  },
+  {
+    "SERIES": "2019-12-01",
+    "Capital Account": 0.034,
+    "Current Account": 10.796,
+    "Errors and Omissions": -5.679,
+    "Direct Investment": 6.577,
+    "Other Investment": -2.641,
+    "Reserves": -6.324
+  },
+  {
+    "SERIES": "2020-01-01",
+    "Capital Account": -0.002,
+    "Current Account": 9.576,
+    "Errors and Omissions": -4.017,
+    "Direct Investment": 6.516,
+    "Other Investment": -2.453,
+    "Reserves": -0.122
+  },
+  {
+    "SERIES": "2020-02-01",
+    "Capital Account": -0.003,
+    "Current Account": 8.808,
+    "Errors and Omissions": -4.385,
+    "Direct Investment": 6.42,
+    "Other Investment": -0.388,
+    "Reserves": -0.205
+  },
+  {
+    "SERIES": "2020-03-01",
+    "Capital Account": -0.005,
+    "Current Account": 3.944,
+    "Errors and Omissions": -9.236,
+    "Direct Investment": 6.087,
+    "Other Investment": 0.864,
+    "Reserves": 13.282
+  },
+  {
+    "SERIES": "2020-04-01",
+    "Capital Account": -0.007,
+    "Current Account": -0.771,
+    "Errors and Omissions": -13.689,
+    "Direct Investment": 5.806,
+    "Other Investment": 3.686,
+    "Reserves": 19.082
+  },
+  {
+    "SERIES": "2020-05-01",
+    "Capital Account": -0.005,
+    "Current Account": -5.944,
+    "Errors and Omissions": -17.937,
+    "Direct Investment": 5.846,
+    "Other Investment": 15.62,
+    "Reserves": 19.373
+  },
+  {
+    "SERIES": "2020-06-01",
+    "Capital Account": -0.004,
+    "Current Account": -8.392,
+    "Errors and Omissions": -10.797,
+    "Direct Investment": 5.189,
+    "Other Investment": 5.453,
+    "Reserves": 24.604
+  },
+  {
+    "SERIES": "2020-07-01",
+    "Capital Account": -0.019,
+    "Current Account": -12.361,
+    "Errors and Omissions": -10.626,
+    "Direct Investment": 4.834,
+    "Other Investment": 6.731,
+    "Reserves": 29.043
+  },
+  {
+    "SERIES": "2020-08-01",
+    "Capital Account": -0.037,
+    "Current Account": -19.647,
+    "Errors and Omissions": -10.637,
+    "Direct Investment": 4.535,
+    "Other Investment": 7.524,
+    "Reserves": 36.899
+  },
+  {
+    "SERIES": "2020-09-01",
+    "Capital Account": -0.029,
+    "Current Account": -24.723,
+    "Errors and Omissions": -11.184,
+    "Direct Investment": 4.811,
+    "Other Investment": 8.624,
+    "Reserves": 40.559
+  },
+  {
+    "SERIES": "2020-10-01",
+    "Capital Account": -0.029,
+    "Current Account": -27.676,
+    "Errors and Omissions": -12.373,
+    "Direct Investment": 4.156,
+    "Other Investment": 10.207,
+    "Reserves": 38.247
+  },
+  {
+    "SERIES": "2020-11-01",
+    "Capital Account": -0.031,
+    "Current Account": -31.253,
+    "Errors and Omissions": -6.162,
+    "Direct Investment": 4.131,
+    "Other Investment": 7.589,
+    "Reserves": 39.135
+  },
+  {
+    "SERIES": "2020-12-01",
+    "Capital Account": -0.036,
+    "Current Account": -31.888,
+    "Errors and Omissions": -7.508,
+    "Direct Investment": 4.456,
+    "Other Investment": 12.67,
+    "Reserves": 31.862
+  },
+  {
+    "SERIES": "2021-01-01",
+    "Capital Account": -0.046,
+    "Current Account": -32.056,
+    "Errors and Omissions": -6.191,
+    "Direct Investment": 3.859,
+    "Other Investment": 12.031,
+    "Reserves": 25.358
+  },
+  {
+    "SERIES": "2021-02-01",
+    "Capital Account": -0.045,
+    "Current Account": -33.507,
+    "Errors and Omissions": -4.32,
+    "Direct Investment": 4.247,
+    "Other Investment": 9.851,
+    "Reserves": 27.433
+  },
+  {
+    "SERIES": "2021-03-01",
+    "Capital Account": -0.044,
+    "Current Account": -31.538,
+    "Errors and Omissions": 1.971,
+    "Direct Investment": 3.802,
+    "Other Investment": 12.985,
+    "Reserves": 17.013
+  },
+  {
+    "SERIES": "2021-04-01",
+    "Capital Account": -0.042,
+    "Current Account": -27.572,
+    "Errors and Omissions": 1.824,
+    "Direct Investment": 3.72,
+    "Other Investment": 14.072,
+    "Reserves": 9.591
+  },
+  {
+    "SERIES": "2021-05-01",
+    "Capital Account": -0.034,
+    "Current Account": -26.638,
+    "Errors and Omissions": 4.671,
+    "Direct Investment": 3.742,
+    "Other Investment": 5.145,
+    "Reserves": 11.027
+  },
+  {
+    "SERIES": "2021-06-01",
+    "Capital Account": -0.035,
+    "Current Account": -24.991,
+    "Errors and Omissions": 5.931,
+    "Direct Investment": 4.602,
+    "Other Investment": 13.37,
+    "Reserves": -5.52
+  },
+  {
+    "SERIES": "2021-07-01",
+    "Capital Account": -0.056,
+    "Current Account": -22.924,
+    "Errors and Omissions": 8.957,
+    "Direct Investment": 5.529,
+    "Other Investment": 12.823,
+    "Reserves": -13.503
+  },
+  {
+    "SERIES": "2021-08-01",
+    "Capital Account": -0.069,
+    "Current Account": -17.173,
+    "Errors and Omissions": 12.808,
+    "Direct Investment": 6.214,
+    "Other Investment": 13.637,
+    "Reserves": -34.352
+  },
+  {
+    "SERIES": "2021-09-01",
+    "Capital Account": -0.074,
+    "Current Account": -12.486,
+    "Errors and Omissions": 13.899,
+    "Direct Investment": 6.77,
+    "Other Investment": 15.493,
+    "Reserves": -43.572
+  },
+  {
+    "SERIES": "2021-10-01",
+    "Capital Account": -0.074,
+    "Current Account": -8.604,
+    "Errors and Omissions": 14.898,
+    "Direct Investment": 7.236,
+    "Other Investment": 12.188,
+    "Reserves": -40.869
+  },
+  {
+    "SERIES": "2021-11-01",
+    "Capital Account": -0.073,
+    "Current Account": -7.328,
+    "Errors and Omissions": 12.675,
+    "Direct Investment": 7.221,
+    "Other Investment": 18.995,
+    "Reserves": -43.845
+  },
+  {
+    "SERIES": "2021-12-01",
+    "Capital Account": -0.064,
+    "Current Account": -7.232,
+    "Errors and Omissions": 1.644,
+    "Direct Investment": 6.874,
+    "Other Investment": 15.019,
+    "Reserves": -23.33
+  },
+  {
+    "SERIES": "2022-01-01",
+    "Capital Account": -0.046,
+    "Current Account": -12.606,
+    "Errors and Omissions": 3.412,
+    "Direct Investment": 7.157,
+    "Other Investment": 19.89,
+    "Reserves": -18.818
+  },
+  {
+    "SERIES": "2022-02-01",
+    "Capital Account": -0.046,
+    "Current Account": -15.711,
+    "Errors and Omissions": 3.101,
+    "Direct Investment": 6.426,
+    "Other Investment": 21.947,
+    "Reserves": -15.675
+  },
+  {
+    "SERIES": "2022-03-01",
+    "Capital Account": -0.046,
+    "Current Account": -18.3,
+    "Errors and Omissions": 3.293,
+    "Direct Investment": 6.292,
+    "Other Investment": 23.554,
+    "Reserves": -17.338
+  },
+  {
+    "SERIES": "2022-04-01",
+    "Capital Account": -0.048,
+    "Current Account": -19.731,
+    "Errors and Omissions": 7.062,
+    "Direct Investment": 7.041,
+    "Other Investment": 24.41,
+    "Reserves": -21.738
+  },
+  {
+    "SERIES": "2022-05-01",
+    "Capital Account": -0.06,
+    "Current Account": -22.714,
+    "Errors and Omissions": 9.123,
+    "Direct Investment": 8.853,
+    "Other Investment": 20.984,
+    "Reserves": -14.518
+  },
+  {
+    "SERIES": "2022-06-01",
+    "Capital Account": -0.059,
+    "Current Account": -24.76,
+    "Errors and Omissions": 8.561,
+    "Direct Investment": 9.089,
+    "Other Investment": 17.243,
+    "Reserves": -3.718
+  },
+  {
+    "SERIES": "2022-07-01",
+    "Capital Account": -0.056,
+    "Current Account": -28.707,
+    "Errors and Omissions": 10.067,
+    "Direct Investment": 8.222,
+    "Other Investment": 20.836,
+    "Reserves": -1.441
+  },
+  {
+    "SERIES": "2022-08-01",
+    "Capital Account": -0.025,
+    "Current Account": -33.64,
+    "Errors and Omissions": 11.31,
+    "Direct Investment": 7.821,
+    "Other Investment": 29.299,
+    "Reserves": 1.02
+  },
+  {
+    "SERIES": "2022-09-01",
+    "Capital Account": -0.024,
+    "Current Account": -39.386,
+    "Errors and Omissions": 11.461,
+    "Direct Investment": 7.784,
+    "Other Investment": 32.244,
+    "Reserves": 8.265
+  },
+  {
+    "SERIES": "2022-10-01",
+    "Capital Account": -0.027,
+    "Current Account": -44.305,
+    "Errors and Omissions": 14.158,
+    "Direct Investment": 8.295,
+    "Other Investment": 35.528,
+    "Reserves": 4.686
+  },
+  {
+    "SERIES": "2022-11-01",
+    "Capital Account": -0.026,
+    "Current Account": -46.244,
+    "Errors and Omissions": 14.138,
+    "Direct Investment": 8.85,
+    "Other Investment": 35.729,
+    "Reserves": 3.904
+  },
+  {
+    "SERIES": "2022-12-01",
+    "Capital Account": -0.035,
+    "Current Account": -49.086,
+    "Errors and Omissions": 25.926,
+    "Direct Investment": 8.667,
+    "Other Investment": 40.367,
+    "Reserves": -12.311
+  },
+  {
+    "SERIES": "2023-01-01",
+    "Capital Account": -0.049,
+    "Current Account": -52.713,
+    "Errors and Omissions": 23.664,
+    "Direct Investment": 8.338,
+    "Other Investment": 36.709,
+    "Reserves": -3.912
+  },
+  {
+    "SERIES": "2023-02-01",
+    "Capital Account": -0.072,
+    "Current Account": -56.537,
+    "Errors and Omissions": 23.756,
+    "Direct Investment": 8.833,
+    "Other Investment": 36.454,
+    "Reserves": -1.453
+  },
+  {
+    "SERIES": "2023-03-01",
+    "Capital Account": -0.08,
+    "Current Account": -55.632,
+    "Errors and Omissions": 19.232,
+    "Direct Investment": 9.104,
+    "Other Investment": 42.034,
+    "Reserves": -5.695
+  },
+  {
+    "SERIES": "2023-04-01",
+    "Capital Account": -0.085,
+    "Current Account": -58.458,
+    "Errors and Omissions": 12.624,
+    "Direct Investment": 9.081,
+    "Other Investment": 42.004,
+    "Reserves": 4.395
+  },
+  {
+    "SERIES": "2023-05-01",
+    "Capital Account": -0.093,
+    "Current Account": -60.349,
+    "Errors and Omissions": 1.386,
+    "Direct Investment": 7.137,
+    "Other Investment": 43.478,
+    "Reserves": 15.034
+  },
+  {
+    "SERIES": "2023-06-01",
+    "Capital Account": -0.106,
+    "Current Account": -56.973,
+    "Errors and Omissions": 6.227,
+    "Direct Investment": 6.191,
+    "Other Investment": 45.888,
+    "Reserves": 1.874
+  },
+  {
+    "SERIES": "2023-07-01",
+    "Capital Account": -0.115,
+    "Current Account": -59.15,
+    "Errors and Omissions": 3.719,
+    "Direct Investment": 6.292,
+    "Other Investment": 47.047,
+    "Reserves": 3.519
+  },
+  {
+    "SERIES": "2023-08-01",
+    "Capital Account": -0.158,
+    "Current Account": -56.707,
+    "Errors and Omissions": 4.026,
+    "Direct Investment": 5.74,
+    "Other Investment": 39.173,
+    "Reserves": 9.171
+  },
+  {
+    "SERIES": "2023-09-01",
+    "Capital Account": -0.179,
+    "Current Account": -51.767,
+    "Errors and Omissions": -0.069,
+    "Direct Investment": 4.532,
+    "Other Investment": 44.515,
+    "Reserves": -0.148
+  },
+  {
+    "SERIES": "2023-10-01",
+    "Capital Account": -0.191,
+    "Current Account": -50.942,
+    "Errors and Omissions": -4.609,
+    "Direct Investment": 4.431,
+    "Other Investment": 44.029,
+    "Reserves": 4.664
+  },
+  {
+    "SERIES": "2023-11-01",
+    "Capital Account": -0.204,
+    "Current Account": -49.621,
+    "Errors and Omissions": -8.828,
+    "Direct Investment": 4.461,
+    "Other Investment": 45.174,
+    "Reserves": 1.571
+  }
+]
