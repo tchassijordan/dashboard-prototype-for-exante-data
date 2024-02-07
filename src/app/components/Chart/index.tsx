@@ -32,7 +32,7 @@ export const Chart = ({ data, dataKeys, xAxisKey }: ChartProps) => {
   const chartBarRadius: [number, number, number, number] = [4, 4, 0, 0];
 
   return (
-    <ResponsiveContainer width={"100%"} height={"100%"} minHeight={500}>
+    <ResponsiveContainer width={"100%"} height={"100%"} minHeight={600}>
       <BarChart
         data={formatChartData(data, xAxisKey)}
         margin={{ top: 5, right: 20, bottom: 5, left: 0 }}

@@ -6,54 +6,57 @@ import Autocomplete from "@mui/material/Autocomplete";
 import Avatar from "@mui/material/Avatar";
 import TextField from "@mui/material/TextField";
 import { useRouter } from "next/navigation";
+import { Box } from "@mui/material";
 
 export default function Navbar() {
   const { push } = useRouter();
 
   return (
-    <Grid
-      container
-      sx={{
-        py: 4,
-        px: 2,
-        backgroundColor: "rgb(9, 28, 48)",
-        justifyContent: "space-between",
-      }}
-    >
-      <Grid item xs={3} md={3}>
-        <Image
-          src="/assets/exante-blue-white-logo.png"
-          alt="trounceflow logo"
-          width={180}
-          height={50}
-        />
+    <Box sx={{ backgroundColor: "rgb(9, 28, 48)", inlineSize: "100%" }}>
+      <Grid
+        container
+        sx={(theme) => ({
+          p: theme.spacing(4, 2),
+          justifyContent: "space-between",
+          maxInlineSize: theme.breakpoints.values.xl,
+          mx: "auto",
+        })}
+      >
+        <Grid item xs={3} md={3}>
+          <Image
+            src="/assets/exante-blue-white-logo.png"
+            alt="trounceflow logo"
+            width={180}
+            height={50}
+          />
+        </Grid>
+        <Grid item xs={12} md={7}>
+          <Autocomplete
+            autoComplete
+            freeSolo
+            id="search-bar"
+            options={filters}
+            groupBy={(option) => option.categorie}
+            sx={{
+              width: "100%",
+              backgroundColor: "background.paper",
+              borderRadius: 1,
+            }}
+            renderInput={(params) => (
+              <TextField {...params} fullWidth placeholder="Search..." />
+            )}
+            onChange={(_, option) => {
+              if (typeof option !== "string") {
+                if (option) push(option?.href);
+              }
+            }}
+          />
+        </Grid>
+        <Grid item xs={12} md={2}>
+          <Avatar sx={{ ml: "auto" }} />
+        </Grid>
       </Grid>
-      <Grid item xs={12} md={7}>
-        <Autocomplete
-          autoComplete
-          freeSolo
-          id="search-bar"
-          options={filters}
-          groupBy={(option) => option.categorie}
-          sx={{
-            width: "100%",
-            backgroundColor: "background.paper",
-            borderRadius: 1,
-          }}
-          renderInput={(params) => (
-            <TextField {...params} fullWidth placeholder="Search..." />
-          )}
-          onChange={(_, option) => {
-            if (typeof option !== "string") {
-              if (option) push(option?.href);
-            }
-          }}
-        />
-      </Grid>
-      <Grid item xs={12} md={2}>
-        <Avatar sx={{ ml: "auto" }} />
-      </Grid>
-    </Grid>
+    </Box>
   );
 }
 
